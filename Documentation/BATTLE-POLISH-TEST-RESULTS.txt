@@ -1,0 +1,16 @@
+15 support AI, readiness and interaction checks passed.
+PASS rally unavailable without counters
+PASS rooted action rejected centrally
+PASS two AP action correctly unavailable
+PASS spent attack leaves movement legal
+PASS AI heals critical ally with real AP and resource costs
+PASS full health healing rejected without resource loss
+PASS AI orders ally with viable ranged attack
+PASS duplicate orders cannot waste AP
+PASS AI repairs damaged engine
+PASS full health repair rejected without AP loss
+PASS siphon cannot heal from ward absorption
+PASS siphon heals only actual HP damage
+PASS shared retaliation applies penetration
+PASS status summary exposes defensive and disruption state
+PASS repeated brace cannot waste AP

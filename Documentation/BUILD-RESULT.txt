@@ -1,0 +1,5 @@
+Unity 6000.6.6f1
+Windows x64 native player
+Result: Succeeded
+Bytes: 144650845
+Time: 2026-10-18T11:44:19.7557797+01:00

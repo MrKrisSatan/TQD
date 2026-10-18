@@ -1,0 +1,8 @@
+using UnityEngine;
+namespace QuietDread {
+public partial class BattleVisuals {
+ Mesh rockMesh;Material rockMaterial;
+ void Boulder(Transform parent,Vector3 position,Vector3 size,float rotation){if(!rockMesh){float t=(1+Mathf.Sqrt(5))/2;var source=new[]{new Vector3(-1,t,0),new Vector3(1,t,0),new Vector3(-1,-t,0),new Vector3(1,-t,0),new Vector3(0,-1,t),new Vector3(0,1,t),new Vector3(0,-1,-t),new Vector3(0,1,-t),new Vector3(t,0,-1),new Vector3(t,0,1),new Vector3(-t,0,-1),new Vector3(-t,0,1)};int[] faces={0,11,5,0,5,1,0,1,7,0,7,10,0,10,11,1,5,9,5,11,4,11,10,2,10,7,6,7,1,8,3,9,4,3,4,2,3,2,6,3,6,8,3,8,9,4,9,5,2,4,11,6,2,10,8,6,7,9,8,1};var vertices=new Vector3[60];var uv=new Vector2[60];var triangles=new int[60];for(int i=0;i<60;i++){vertices[i]=source[faces[i]].normalized*(.85f+Mathf.Sin(faces[i]*11.7f)*.12f);uv[i]=new Vector2(vertices[i].x*.5f+.5f,vertices[i].z*.5f+.5f);triangles[i]=i;}rockMesh=new Mesh();rockMesh.vertices=vertices;rockMesh.uv=uv;rockMesh.triangles=triangles;rockMesh.RecalculateNormals();rockMaterial=new Material(Resources.Load<Material>("Surface"));rockMaterial.mainTexture=Resources.Load<Texture2D>("BattleGround");rockMaterial.color=new Color(.65f,.7f,.67f);rockMaterial.SetFloat("_Glossiness",.05f);rockMaterial.DisableKeyword("_EMISSION");}
+ var rock=new GameObject("Mossy rock outcrop");rock.transform.SetParent(parent,false);rock.transform.localPosition=position;rock.transform.localScale=size;rock.transform.localRotation=Quaternion.Euler(12,rotation,17);rock.AddComponent<MeshFilter>().sharedMesh=rockMesh;rock.AddComponent<MeshRenderer>().sharedMaterial=rockMaterial;}
+}
+}

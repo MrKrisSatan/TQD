@@ -1,0 +1,166 @@
+165 native C# checks passed; includes 17 full AI battles with titans and all 17 signature powers.
+PASS 17 factions
+PASS 243 profiles
+PASS every faction has a titan
+PASS unique profile identifiers
+PASS Verminhorde Dominion commanders
+PASS Verminhorde Dominion legal recommended army
+PASS Verminhorde Dominion titan cost
+PASS Aurelian Compact commanders
+PASS Aurelian Compact legal recommended army
+PASS Aurelian Compact titan cost
+PASS Cinderjaw Freeholds commanders
+PASS Cinderjaw Freeholds legal recommended army
+PASS Cinderjaw Freeholds titan cost
+PASS Kharad Vault Concord commanders
+PASS Kharad Vault Concord legal recommended army
+PASS Kharad Vault Concord titan cost
+PASS Lumen Arc Principalities commanders
+PASS Lumen Arc Principalities legal recommended army
+PASS Lumen Arc Principalities titan cost
+PASS Vesperglass Cabals commanders
+PASS Vesperglass Cabals legal recommended army
+PASS Vesperglass Cabals titan cost
+PASS Sepulchral Continuum commanders
+PASS Sepulchral Continuum legal recommended army
+PASS Sepulchral Continuum titan cost
+PASS Hornbound Exodus commanders
+PASS Hornbound Exodus legal recommended army
+PASS Hornbound Exodus titan cost
+PASS Riftbound Ascendancy commanders
+PASS Riftbound Ascendancy legal recommended army
+PASS Riftbound Ascendancy titan cost
+PASS Verdant Synod commanders
+PASS Verdant Synod legal recommended army
+PASS Verdant Synod titan cost
+PASS Sauridian Helion Dynasty commanders
+PASS Sauridian Helion Dynasty legal recommended army
+PASS Sauridian Helion Dynasty titan cost
+PASS Daughters of the Unbroken Dawn commanders
+PASS Daughters of the Unbroken Dawn legal recommended army
+PASS Daughters of the Unbroken Dawn titan cost
+PASS Convent of the Hollow Star commanders
+PASS Convent of the Hollow Star legal recommended army
+PASS Convent of the Hollow Star titan cost
+PASS Argent Testament commanders
+PASS Argent Testament legal recommended army
+PASS Argent Testament titan cost
+PASS Oathscar Reclaimers commanders
+PASS Oathscar Reclaimers legal recommended army
+PASS Oathscar Reclaimers titan cost
+PASS Pelagic Hunger commanders
+PASS Pelagic Hunger legal recommended army
+PASS Pelagic Hunger titan cost
+PASS Kilnclaw Assemblage commanders
+PASS Kilnclaw Assemblage legal recommended army
+PASS Kilnclaw Assemblage titan cost
+PASS All-Mother births a free brood at turn start
+PASS active brood cap and free-cell limit
+PASS destroyed brood can be replaced without lifetime cap
+PASS siege engine must brace
+PASS siege direct hit can kill a regiment
+PASS siege shot has limited accuracy
+PASS magic cannot be cast without resource
+PASS magic cast spends Aether
+PASS magic resource accounting
+PASS ruins block line of sight
+PASS Verminhorde Dominion signature executes under valid conditions
+PASS Verminhorde Dominion signature consumes action points
+PASS Aurelian Compact signature executes under valid conditions
+PASS Aurelian Compact signature consumes action points
+PASS Cinderjaw Freeholds signature executes under valid conditions
+PASS Cinderjaw Freeholds signature consumes action points
+PASS Kharad Vault Concord signature executes under valid conditions
+PASS Kharad Vault Concord signature consumes action points
+PASS Lumen Arc Principalities signature executes under valid conditions
+PASS Lumen Arc Principalities signature consumes action points
+PASS Vesperglass Cabals signature executes under valid conditions
+PASS Vesperglass Cabals signature consumes action points
+PASS Sepulchral Continuum signature executes under valid conditions
+PASS Sepulchral Continuum signature consumes action points
+PASS Hornbound Exodus signature executes under valid conditions
+PASS Hornbound Exodus signature consumes action points
+PASS Riftbound Ascendancy signature executes under valid conditions
+PASS Riftbound Ascendancy signature consumes action points
+PASS Verdant Synod signature executes under valid conditions
+PASS Verdant Synod signature consumes action points
+PASS Sauridian Helion Dynasty signature executes under valid conditions
+PASS Sauridian Helion Dynasty signature consumes action points
+PASS Daughters of the Unbroken Dawn signature executes under valid conditions
+PASS Daughters of the Unbroken Dawn signature consumes action points
+PASS Convent of the Hollow Star signature executes under valid conditions
+PASS Convent of the Hollow Star signature consumes action points
+PASS Argent Testament signature executes under valid conditions
+PASS Argent Testament signature consumes action points
+PASS Oathscar Reclaimers signature executes under valid conditions
+PASS Oathscar Reclaimers signature consumes action points
+PASS Pelagic Hunger signature executes under valid conditions
+PASS Pelagic Hunger signature consumes action points
+PASS Kilnclaw Assemblage signature executes under valid conditions
+PASS Kilnclaw Assemblage signature consumes action points
+PASS cover reduces firearm accuracy
+PASS occupied enemy cell cannot be entered
+PASS Verminhorde Dominion AI battle terminates with titan
+PASS Verminhorde Dominion simulation invariants
+PASS Aurelian Compact AI battle terminates with titan
+PASS Aurelian Compact simulation invariants
+PASS Cinderjaw Freeholds AI battle terminates with titan
+PASS Cinderjaw Freeholds simulation invariants
+PASS Kharad Vault Concord AI battle terminates with titan
+PASS Kharad Vault Concord simulation invariants
+PASS Lumen Arc Principalities AI battle terminates with titan
+PASS Lumen Arc Principalities simulation invariants
+PASS Vesperglass Cabals AI battle terminates with titan
+PASS Vesperglass Cabals simulation invariants
+PASS Sepulchral Continuum AI battle terminates with titan
+PASS Sepulchral Continuum simulation invariants
+PASS Hornbound Exodus AI battle terminates with titan
+PASS Hornbound Exodus simulation invariants
+PASS Riftbound Ascendancy AI battle terminates with titan
+PASS Riftbound Ascendancy simulation invariants
+PASS Verdant Synod AI battle terminates with titan
+PASS Verdant Synod simulation invariants
+PASS Sauridian Helion Dynasty AI battle terminates with titan
+PASS Sauridian Helion Dynasty simulation invariants
+PASS Daughters of the Unbroken Dawn AI battle terminates with titan
+PASS Daughters of the Unbroken Dawn simulation invariants
+PASS Convent of the Hollow Star AI battle terminates with titan
+PASS Convent of the Hollow Star simulation invariants
+PASS Argent Testament AI battle terminates with titan
+PASS Argent Testament simulation invariants
+PASS Oathscar Reclaimers AI battle terminates with titan
+PASS Oathscar Reclaimers simulation invariants
+PASS Pelagic Hunger AI battle terminates with titan
+PASS Pelagic Hunger simulation invariants
+PASS Kilnclaw Assemblage AI battle terminates with titan
+PASS Kilnclaw Assemblage simulation invariants
+PASS trail creates tactical battle
+PASS trail settles victory
+PASS trail settlement is idempotent
+PASS trail advances route after reward
+PASS trail save roundtrip
+PASS conquest creates tactical battle
+PASS conquest settles victory
+PASS conquest settlement is idempotent
+PASS Conquest captures settlement
+PASS Conquest advances economy and rivals
+PASS conquest save roundtrip
+PASS commander is retained even when last in muster order
+PASS death of original commander ends trail even after tactical victory
+PASS complete three-act campaign reaches victory
+PASS a second expedition can be raised
+PASS defense uses the actual invading faction
+PASS second stationed army defends before province falls
+PASS province falls after all defending armies are defeated
+PASS armyless campaign can build recovery barracks
+PASS armyless campaign can recover by raising an expedition
+PASS siege starts against developed enemy region
+PASS siege advances with strategic economy
+PASS two-turn siege produces weakened tactical defenders
+PASS friendly fort shields defenders rather than strengthening invaders
+PASS Compact hits coordinate subsequent allied fire
+PASS Memory resource exposes a target
+PASS Chitterhold restores fallen persistent brood at half strength
+PASS Chitterhold restoration is once per battle
+PASS Deepdelve grants one-AP tunnels to infantry
+PASS Deepdelve does not tunnel a titan

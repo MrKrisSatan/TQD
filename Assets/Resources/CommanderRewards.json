@@ -1,0 +1,1330 @@
+{
+  "tracks": [
+    {
+      "commander": "marshal",
+      "faction": "vermin",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "gore_maiden"
+        },
+        {
+          "wins": 3,
+          "unit": "stormvermin"
+        },
+        {
+          "wins": 5,
+          "unit": "plague"
+        },
+        {
+          "wins": 7,
+          "unit": "tank"
+        },
+        {
+          "wins": 10,
+          "unit": "vermin_titan"
+        }
+      ]
+    },
+    {
+      "commander": "seraphyx",
+      "faction": "vermin",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "gore_maiden"
+        },
+        {
+          "wins": 3,
+          "unit": "plague"
+        },
+        {
+          "wins": 5,
+          "unit": "tank"
+        },
+        {
+          "wins": 7,
+          "unit": "stormvermin"
+        },
+        {
+          "wins": 10,
+          "unit": "vermin_titan"
+        }
+      ]
+    },
+    {
+      "commander": "captain",
+      "faction": "compact",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "rail"
+        },
+        {
+          "wins": 3,
+          "unit": "compact_1"
+        },
+        {
+          "wins": 5,
+          "unit": "howitzer"
+        },
+        {
+          "wins": 7,
+          "unit": "lancers"
+        },
+        {
+          "wins": 10,
+          "unit": "compact_titan"
+        }
+      ]
+    },
+    {
+      "commander": "compact_2",
+      "faction": "compact",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "compact_1"
+        },
+        {
+          "wins": 3,
+          "unit": "howitzer"
+        },
+        {
+          "wins": 5,
+          "unit": "lancers"
+        },
+        {
+          "wins": 7,
+          "unit": "rail"
+        },
+        {
+          "wins": 10,
+          "unit": "compact_titan"
+        }
+      ]
+    },
+    {
+      "commander": "compact_3",
+      "faction": "compact",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "howitzer"
+        },
+        {
+          "wins": 3,
+          "unit": "lancers"
+        },
+        {
+          "wins": 5,
+          "unit": "rail"
+        },
+        {
+          "wins": 7,
+          "unit": "compact_1"
+        },
+        {
+          "wins": 10,
+          "unit": "compact_titan"
+        }
+      ]
+    },
+    {
+      "commander": "compact_4",
+      "faction": "compact",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "lancers"
+        },
+        {
+          "wins": 3,
+          "unit": "rail"
+        },
+        {
+          "wins": 5,
+          "unit": "compact_1"
+        },
+        {
+          "wins": 7,
+          "unit": "howitzer"
+        },
+        {
+          "wins": 10,
+          "unit": "compact_titan"
+        }
+      ]
+    },
+    {
+      "commander": "cinder_10",
+      "faction": "cinder",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "cinder_5"
+        },
+        {
+          "wins": 3,
+          "unit": "cinder_9"
+        },
+        {
+          "wins": 5,
+          "unit": "cinder_1"
+        },
+        {
+          "wins": 7,
+          "unit": "cinder_6"
+        },
+        {
+          "wins": 10,
+          "unit": "cinder_titan"
+        }
+      ]
+    },
+    {
+      "commander": "cinder_11",
+      "faction": "cinder",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "cinder_9"
+        },
+        {
+          "wins": 3,
+          "unit": "cinder_1"
+        },
+        {
+          "wins": 5,
+          "unit": "cinder_6"
+        },
+        {
+          "wins": 7,
+          "unit": "cinder_5"
+        },
+        {
+          "wins": 10,
+          "unit": "cinder_titan"
+        }
+      ]
+    },
+    {
+      "commander": "cinder_12",
+      "faction": "cinder",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "cinder_1"
+        },
+        {
+          "wins": 3,
+          "unit": "cinder_6"
+        },
+        {
+          "wins": 5,
+          "unit": "cinder_5"
+        },
+        {
+          "wins": 7,
+          "unit": "cinder_9"
+        },
+        {
+          "wins": 10,
+          "unit": "cinder_titan"
+        }
+      ]
+    },
+    {
+      "commander": "vault_10",
+      "faction": "vault",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "vault_5"
+        },
+        {
+          "wins": 3,
+          "unit": "vault_9"
+        },
+        {
+          "wins": 5,
+          "unit": "vault_3"
+        },
+        {
+          "wins": 7,
+          "unit": "vault_6"
+        },
+        {
+          "wins": 10,
+          "unit": "vault_titan"
+        }
+      ]
+    },
+    {
+      "commander": "vault_11",
+      "faction": "vault",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "vault_9"
+        },
+        {
+          "wins": 3,
+          "unit": "vault_3"
+        },
+        {
+          "wins": 5,
+          "unit": "vault_6"
+        },
+        {
+          "wins": 7,
+          "unit": "vault_5"
+        },
+        {
+          "wins": 10,
+          "unit": "vault_titan"
+        }
+      ]
+    },
+    {
+      "commander": "vault_12",
+      "faction": "vault",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "vault_3"
+        },
+        {
+          "wins": 3,
+          "unit": "vault_6"
+        },
+        {
+          "wins": 5,
+          "unit": "vault_5"
+        },
+        {
+          "wins": 7,
+          "unit": "vault_9"
+        },
+        {
+          "wins": 10,
+          "unit": "vault_titan"
+        }
+      ]
+    },
+    {
+      "commander": "lumen_10",
+      "faction": "lumen",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "lumen_5"
+        },
+        {
+          "wins": 3,
+          "unit": "lumen_1"
+        },
+        {
+          "wins": 5,
+          "unit": "lumen_4"
+        },
+        {
+          "wins": 7,
+          "unit": "lumen_6"
+        },
+        {
+          "wins": 10,
+          "unit": "lumen_titan"
+        }
+      ]
+    },
+    {
+      "commander": "lumen_11",
+      "faction": "lumen",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "lumen_1"
+        },
+        {
+          "wins": 3,
+          "unit": "lumen_4"
+        },
+        {
+          "wins": 5,
+          "unit": "lumen_6"
+        },
+        {
+          "wins": 7,
+          "unit": "lumen_5"
+        },
+        {
+          "wins": 10,
+          "unit": "lumen_titan"
+        }
+      ]
+    },
+    {
+      "commander": "lumen_12",
+      "faction": "lumen",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "lumen_4"
+        },
+        {
+          "wins": 3,
+          "unit": "lumen_6"
+        },
+        {
+          "wins": 5,
+          "unit": "lumen_5"
+        },
+        {
+          "wins": 7,
+          "unit": "lumen_1"
+        },
+        {
+          "wins": 10,
+          "unit": "lumen_titan"
+        }
+      ]
+    },
+    {
+      "commander": "vesper_10",
+      "faction": "vesper",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "vesper_5"
+        },
+        {
+          "wins": 3,
+          "unit": "vesper_4"
+        },
+        {
+          "wins": 5,
+          "unit": "vesper_3"
+        },
+        {
+          "wins": 7,
+          "unit": "vesper_6"
+        },
+        {
+          "wins": 10,
+          "unit": "vesper_titan"
+        }
+      ]
+    },
+    {
+      "commander": "vesper_11",
+      "faction": "vesper",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "vesper_4"
+        },
+        {
+          "wins": 3,
+          "unit": "vesper_3"
+        },
+        {
+          "wins": 5,
+          "unit": "vesper_6"
+        },
+        {
+          "wins": 7,
+          "unit": "vesper_5"
+        },
+        {
+          "wins": 10,
+          "unit": "vesper_titan"
+        }
+      ]
+    },
+    {
+      "commander": "vesper_12",
+      "faction": "vesper",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "vesper_3"
+        },
+        {
+          "wins": 3,
+          "unit": "vesper_6"
+        },
+        {
+          "wins": 5,
+          "unit": "vesper_5"
+        },
+        {
+          "wins": 7,
+          "unit": "vesper_4"
+        },
+        {
+          "wins": 10,
+          "unit": "vesper_titan"
+        }
+      ]
+    },
+    {
+      "commander": "sepulchre_10",
+      "faction": "sepulchre",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "sepulchre_5"
+        },
+        {
+          "wins": 3,
+          "unit": "sepulchre_3"
+        },
+        {
+          "wins": 5,
+          "unit": "sepulchre_1"
+        },
+        {
+          "wins": 7,
+          "unit": "sepulchre_6"
+        },
+        {
+          "wins": 10,
+          "unit": "sepulchre_titan"
+        }
+      ]
+    },
+    {
+      "commander": "sepulchre_11",
+      "faction": "sepulchre",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "sepulchre_3"
+        },
+        {
+          "wins": 3,
+          "unit": "sepulchre_1"
+        },
+        {
+          "wins": 5,
+          "unit": "sepulchre_6"
+        },
+        {
+          "wins": 7,
+          "unit": "sepulchre_5"
+        },
+        {
+          "wins": 10,
+          "unit": "sepulchre_titan"
+        }
+      ]
+    },
+    {
+      "commander": "sepulchre_12",
+      "faction": "sepulchre",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "sepulchre_1"
+        },
+        {
+          "wins": 3,
+          "unit": "sepulchre_6"
+        },
+        {
+          "wins": 5,
+          "unit": "sepulchre_5"
+        },
+        {
+          "wins": 7,
+          "unit": "sepulchre_3"
+        },
+        {
+          "wins": 10,
+          "unit": "sepulchre_titan"
+        }
+      ]
+    },
+    {
+      "commander": "horn_10",
+      "faction": "horn",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "horn_4"
+        },
+        {
+          "wins": 3,
+          "unit": "horn_5"
+        },
+        {
+          "wins": 5,
+          "unit": "horn_1"
+        },
+        {
+          "wins": 7,
+          "unit": "horn_3"
+        },
+        {
+          "wins": 10,
+          "unit": "horn_titan"
+        }
+      ]
+    },
+    {
+      "commander": "horn_11",
+      "faction": "horn",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "horn_5"
+        },
+        {
+          "wins": 3,
+          "unit": "horn_1"
+        },
+        {
+          "wins": 5,
+          "unit": "horn_3"
+        },
+        {
+          "wins": 7,
+          "unit": "horn_4"
+        },
+        {
+          "wins": 10,
+          "unit": "horn_titan"
+        }
+      ]
+    },
+    {
+      "commander": "horn_12",
+      "faction": "horn",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "horn_1"
+        },
+        {
+          "wins": 3,
+          "unit": "horn_3"
+        },
+        {
+          "wins": 5,
+          "unit": "horn_4"
+        },
+        {
+          "wins": 7,
+          "unit": "horn_5"
+        },
+        {
+          "wins": 10,
+          "unit": "horn_titan"
+        }
+      ]
+    },
+    {
+      "commander": "rift_10",
+      "faction": "rift",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "rift_5"
+        },
+        {
+          "wins": 3,
+          "unit": "rift_1"
+        },
+        {
+          "wins": 5,
+          "unit": "rift_3"
+        },
+        {
+          "wins": 7,
+          "unit": "rift_6"
+        },
+        {
+          "wins": 10,
+          "unit": "rift_titan"
+        }
+      ]
+    },
+    {
+      "commander": "rift_11",
+      "faction": "rift",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "rift_1"
+        },
+        {
+          "wins": 3,
+          "unit": "rift_3"
+        },
+        {
+          "wins": 5,
+          "unit": "rift_6"
+        },
+        {
+          "wins": 7,
+          "unit": "rift_5"
+        },
+        {
+          "wins": 10,
+          "unit": "rift_titan"
+        }
+      ]
+    },
+    {
+      "commander": "rift_12",
+      "faction": "rift",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "rift_3"
+        },
+        {
+          "wins": 3,
+          "unit": "rift_6"
+        },
+        {
+          "wins": 5,
+          "unit": "rift_5"
+        },
+        {
+          "wins": 7,
+          "unit": "rift_1"
+        },
+        {
+          "wins": 10,
+          "unit": "rift_titan"
+        }
+      ]
+    },
+    {
+      "commander": "verdant_10",
+      "faction": "verdant",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "verdant_5"
+        },
+        {
+          "wins": 3,
+          "unit": "verdant_3"
+        },
+        {
+          "wins": 5,
+          "unit": "verdant_1"
+        },
+        {
+          "wins": 7,
+          "unit": "verdant_6"
+        },
+        {
+          "wins": 10,
+          "unit": "verdant_titan"
+        }
+      ]
+    },
+    {
+      "commander": "verdant_11",
+      "faction": "verdant",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "verdant_3"
+        },
+        {
+          "wins": 3,
+          "unit": "verdant_1"
+        },
+        {
+          "wins": 5,
+          "unit": "verdant_6"
+        },
+        {
+          "wins": 7,
+          "unit": "verdant_5"
+        },
+        {
+          "wins": 10,
+          "unit": "verdant_titan"
+        }
+      ]
+    },
+    {
+      "commander": "verdant_12",
+      "faction": "verdant",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "verdant_1"
+        },
+        {
+          "wins": 3,
+          "unit": "verdant_6"
+        },
+        {
+          "wins": 5,
+          "unit": "verdant_5"
+        },
+        {
+          "wins": 7,
+          "unit": "verdant_3"
+        },
+        {
+          "wins": 10,
+          "unit": "verdant_titan"
+        }
+      ]
+    },
+    {
+      "commander": "saurian_10",
+      "faction": "saurian",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "saurian_5"
+        },
+        {
+          "wins": 3,
+          "unit": "saurian_4"
+        },
+        {
+          "wins": 5,
+          "unit": "saurian_3"
+        },
+        {
+          "wins": 7,
+          "unit": "saurian_6"
+        },
+        {
+          "wins": 10,
+          "unit": "saurian_titan"
+        }
+      ]
+    },
+    {
+      "commander": "saurian_11",
+      "faction": "saurian",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "saurian_4"
+        },
+        {
+          "wins": 3,
+          "unit": "saurian_3"
+        },
+        {
+          "wins": 5,
+          "unit": "saurian_6"
+        },
+        {
+          "wins": 7,
+          "unit": "saurian_5"
+        },
+        {
+          "wins": 10,
+          "unit": "saurian_titan"
+        }
+      ]
+    },
+    {
+      "commander": "saurian_12",
+      "faction": "saurian",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "saurian_3"
+        },
+        {
+          "wins": 3,
+          "unit": "saurian_6"
+        },
+        {
+          "wins": 5,
+          "unit": "saurian_5"
+        },
+        {
+          "wins": 7,
+          "unit": "saurian_4"
+        },
+        {
+          "wins": 10,
+          "unit": "saurian_titan"
+        }
+      ]
+    },
+    {
+      "commander": "dawn_10",
+      "faction": "dawn",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "dawn_5"
+        },
+        {
+          "wins": 3,
+          "unit": "dawn_3"
+        },
+        {
+          "wins": 5,
+          "unit": "dawn_1"
+        },
+        {
+          "wins": 7,
+          "unit": "dawn_6"
+        },
+        {
+          "wins": 10,
+          "unit": "dawn_titan"
+        }
+      ]
+    },
+    {
+      "commander": "dawn_11",
+      "faction": "dawn",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "dawn_3"
+        },
+        {
+          "wins": 3,
+          "unit": "dawn_1"
+        },
+        {
+          "wins": 5,
+          "unit": "dawn_6"
+        },
+        {
+          "wins": 7,
+          "unit": "dawn_5"
+        },
+        {
+          "wins": 10,
+          "unit": "dawn_titan"
+        }
+      ]
+    },
+    {
+      "commander": "dawn_12",
+      "faction": "dawn",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "dawn_1"
+        },
+        {
+          "wins": 3,
+          "unit": "dawn_6"
+        },
+        {
+          "wins": 5,
+          "unit": "dawn_5"
+        },
+        {
+          "wins": 7,
+          "unit": "dawn_3"
+        },
+        {
+          "wins": 10,
+          "unit": "dawn_titan"
+        }
+      ]
+    },
+    {
+      "commander": "hollow_10",
+      "faction": "hollow",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "hollow_5"
+        },
+        {
+          "wins": 3,
+          "unit": "hollow_3"
+        },
+        {
+          "wins": 5,
+          "unit": "hollow_1"
+        },
+        {
+          "wins": 7,
+          "unit": "hollow_6"
+        },
+        {
+          "wins": 10,
+          "unit": "hollow_titan"
+        }
+      ]
+    },
+    {
+      "commander": "hollow_11",
+      "faction": "hollow",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "hollow_3"
+        },
+        {
+          "wins": 3,
+          "unit": "hollow_1"
+        },
+        {
+          "wins": 5,
+          "unit": "hollow_6"
+        },
+        {
+          "wins": 7,
+          "unit": "hollow_5"
+        },
+        {
+          "wins": 10,
+          "unit": "hollow_titan"
+        }
+      ]
+    },
+    {
+      "commander": "hollow_12",
+      "faction": "hollow",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "hollow_1"
+        },
+        {
+          "wins": 3,
+          "unit": "hollow_6"
+        },
+        {
+          "wins": 5,
+          "unit": "hollow_5"
+        },
+        {
+          "wins": 7,
+          "unit": "hollow_3"
+        },
+        {
+          "wins": 10,
+          "unit": "hollow_titan"
+        }
+      ]
+    },
+    {
+      "commander": "argent_general0",
+      "faction": "argent",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "argent_6"
+        },
+        {
+          "wins": 3,
+          "unit": "argent_5"
+        },
+        {
+          "wins": 5,
+          "unit": "argent_3"
+        },
+        {
+          "wins": 7,
+          "unit": "argent_7"
+        },
+        {
+          "wins": 10,
+          "unit": "argent_titan"
+        }
+      ]
+    },
+    {
+      "commander": "argent_general1",
+      "faction": "argent",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "argent_5"
+        },
+        {
+          "wins": 3,
+          "unit": "argent_3"
+        },
+        {
+          "wins": 5,
+          "unit": "argent_7"
+        },
+        {
+          "wins": 7,
+          "unit": "argent_6"
+        },
+        {
+          "wins": 10,
+          "unit": "argent_titan"
+        }
+      ]
+    },
+    {
+      "commander": "argent_general2",
+      "faction": "argent",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "argent_3"
+        },
+        {
+          "wins": 3,
+          "unit": "argent_7"
+        },
+        {
+          "wins": 5,
+          "unit": "argent_6"
+        },
+        {
+          "wins": 7,
+          "unit": "argent_5"
+        },
+        {
+          "wins": 10,
+          "unit": "argent_titan"
+        }
+      ]
+    },
+    {
+      "commander": "oathscar_general0",
+      "faction": "oathscar",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "oathscar_6"
+        },
+        {
+          "wins": 3,
+          "unit": "oathscar_5"
+        },
+        {
+          "wins": 5,
+          "unit": "oathscar_3"
+        },
+        {
+          "wins": 7,
+          "unit": "oathscar_7"
+        },
+        {
+          "wins": 10,
+          "unit": "oathscar_titan"
+        }
+      ]
+    },
+    {
+      "commander": "oathscar_general1",
+      "faction": "oathscar",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "oathscar_5"
+        },
+        {
+          "wins": 3,
+          "unit": "oathscar_3"
+        },
+        {
+          "wins": 5,
+          "unit": "oathscar_7"
+        },
+        {
+          "wins": 7,
+          "unit": "oathscar_6"
+        },
+        {
+          "wins": 10,
+          "unit": "oathscar_titan"
+        }
+      ]
+    },
+    {
+      "commander": "oathscar_general2",
+      "faction": "oathscar",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "oathscar_3"
+        },
+        {
+          "wins": 3,
+          "unit": "oathscar_7"
+        },
+        {
+          "wins": 5,
+          "unit": "oathscar_6"
+        },
+        {
+          "wins": 7,
+          "unit": "oathscar_5"
+        },
+        {
+          "wins": 10,
+          "unit": "oathscar_titan"
+        }
+      ]
+    },
+    {
+      "commander": "pelagic_general0",
+      "faction": "pelagic",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "pelagic_6"
+        },
+        {
+          "wins": 3,
+          "unit": "pelagic_5"
+        },
+        {
+          "wins": 5,
+          "unit": "pelagic_3"
+        },
+        {
+          "wins": 7,
+          "unit": "pelagic_7"
+        },
+        {
+          "wins": 10,
+          "unit": "pelagic_titan"
+        }
+      ]
+    },
+    {
+      "commander": "pelagic_general1",
+      "faction": "pelagic",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "pelagic_5"
+        },
+        {
+          "wins": 3,
+          "unit": "pelagic_3"
+        },
+        {
+          "wins": 5,
+          "unit": "pelagic_7"
+        },
+        {
+          "wins": 7,
+          "unit": "pelagic_6"
+        },
+        {
+          "wins": 10,
+          "unit": "pelagic_titan"
+        }
+      ]
+    },
+    {
+      "commander": "pelagic_general2",
+      "faction": "pelagic",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "pelagic_3"
+        },
+        {
+          "wins": 3,
+          "unit": "pelagic_7"
+        },
+        {
+          "wins": 5,
+          "unit": "pelagic_6"
+        },
+        {
+          "wins": 7,
+          "unit": "pelagic_5"
+        },
+        {
+          "wins": 10,
+          "unit": "pelagic_titan"
+        }
+      ]
+    },
+    {
+      "commander": "kiln_general0",
+      "faction": "kiln",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "kiln_6"
+        },
+        {
+          "wins": 3,
+          "unit": "kiln_5"
+        },
+        {
+          "wins": 5,
+          "unit": "kiln_3"
+        },
+        {
+          "wins": 7,
+          "unit": "kiln_7"
+        },
+        {
+          "wins": 10,
+          "unit": "kiln_titan"
+        }
+      ]
+    },
+    {
+      "commander": "kiln_general1",
+      "faction": "kiln",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "kiln_5"
+        },
+        {
+          "wins": 3,
+          "unit": "kiln_3"
+        },
+        {
+          "wins": 5,
+          "unit": "kiln_7"
+        },
+        {
+          "wins": 7,
+          "unit": "kiln_6"
+        },
+        {
+          "wins": 10,
+          "unit": "kiln_titan"
+        }
+      ]
+    },
+    {
+      "commander": "kiln_general2",
+      "faction": "kiln",
+      "rewards": [
+        {
+          "wins": 1,
+          "unit": "kiln_3"
+        },
+        {
+          "wins": 3,
+          "unit": "kiln_7"
+        },
+        {
+          "wins": 5,
+          "unit": "kiln_6"
+        },
+        {
+          "wins": 7,
+          "unit": "kiln_5"
+        },
+        {
+          "wins": 10,
+          "unit": "kiln_titan"
+        }
+      ]
+    }
+  ]
+}

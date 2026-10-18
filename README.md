@@ -61,4 +61,3 @@ Some historical documentation records paths from the original development comput
 The setting draws inspiration from science fantasy tabletop games. SOVL was a gameplay and visual reference; this project is **The Quiet Dread**, an independent prototype, and is not affiliated with SOVL, Games Workshop or One Page Rules. Verminhorde material was adapted from the user-supplied codex; source mappings distinguish adaptations from reference material.
 
 See [asset provenance](Documentation/ART-PROVENANCE.md) and [codex mappings](Documentation/Legacy/CODEX-MAPPING.md). The original SOVL archive and reference PDF are not included. Music was supplied by the project owner; filenames and hashes are documented without claiming ownership or a redistribution licence. No blanket open-source licence has been selected for this repository.
-

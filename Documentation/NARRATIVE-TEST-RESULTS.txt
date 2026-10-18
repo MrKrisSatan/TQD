@@ -1,0 +1,95 @@
+94 narrative event, validation, migration and provider checks passed.
+PASS loopback endpoints accepted
+PASS endpoint rejected: https://example.com
+PASS endpoint rejected: http://192.168.1.2:11434
+PASS endpoint rejected: http://127.0.0.1.evil.test
+PASS endpoint rejected: http://user@localhost:11434
+PASS endpoint rejected: file:///tmp/model
+PASS endpoint rejected: http://localhost:11434/path
+PASS endpoint rejected: http://localhost:11434?x=1
+PASS idempotent observation trail0
+PASS settles trail0
+PASS correct outcome trail0
+PASS temporary losses separated trail0
+PASS starting roster and losses retained trail0
+PASS veteran experience recorded trail0
+PASS battle event deduplicated trail0
+PASS journal save/load trail0
+PASS valid structured prose trail0
+PASS mismatched event rejected trail0
+PASS idempotent observation trail1
+PASS settles trail1
+PASS correct outcome trail1
+PASS temporary losses separated trail1
+PASS starting roster and losses retained trail1
+PASS veteran experience recorded trail1
+PASS battle event deduplicated trail1
+PASS journal save/load trail1
+PASS valid structured prose trail1
+PASS mismatched event rejected trail1
+PASS idempotent observation trail2
+PASS settles trail2
+PASS correct outcome trail2
+PASS temporary losses separated trail2
+PASS starting roster and losses retained trail2
+PASS veteran experience recorded trail2
+PASS battle event deduplicated trail2
+PASS journal save/load trail2
+PASS valid structured prose trail2
+PASS mismatched event rejected trail2
+PASS idempotent observation conquest0
+PASS settles conquest0
+PASS correct outcome conquest0
+PASS temporary losses separated conquest0
+PASS starting roster and losses retained conquest0
+PASS veteran experience recorded conquest0
+PASS battle event deduplicated conquest0
+PASS journal save/load conquest0
+PASS valid structured prose conquest0
+PASS mismatched event rejected conquest0
+PASS idempotent observation conquest1
+PASS settles conquest1
+PASS correct outcome conquest1
+PASS temporary losses separated conquest1
+PASS starting roster and losses retained conquest1
+PASS veteran experience recorded conquest1
+PASS battle event deduplicated conquest1
+PASS journal save/load conquest1
+PASS valid structured prose conquest1
+PASS mismatched event rejected conquest1
+PASS idempotent observation conquest2
+PASS settles conquest2
+PASS correct outcome conquest2
+PASS temporary losses separated conquest2
+PASS starting roster and losses retained conquest2
+PASS veteran experience recorded conquest2
+PASS battle event deduplicated conquest2
+PASS journal save/load conquest2
+PASS valid structured prose conquest2
+PASS mismatched event rejected conquest2
+PASS commander death ends trail and is recorded despite field victory
+PASS commander contradiction rejected
+PASS malformed reply rejected
+PASS unsupported survival claim rejected
+PASS markup rejected
+PASS unknown plot theme rejected
+PASS old campaign with missing narrative fields migrates
+PASS bounded journal and memory
+PASS monotonic event identities after pruning
+PASS prompt budget
+PASS second expedition fixture
+PASS multiple armies represented
+PASS territorial changes recorded
+PASS cloud and embedding models excluded
+PASS mocked Ollama success
+PASS cloud generation rejected before request
+PASS incomplete provider output rejected
+PASS transport cancellation propagated
+PASS active battle retained independent of displayed screen
+PASS foreign campaign battle not saved
+PASS settled battle not saved
+PASS exact numbered location allowed in prose
+PASS invented numerical assertion rejected
+PASS future events excluded from historical narration context
+PASS premature expedition ending rejected
+PASS unsupported territorial claim rejected

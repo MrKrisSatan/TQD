@@ -1,0 +1,6 @@
+PASS
+PASS stale delayed response rejected after campaign switch
+PASS timeout, one retry and authored fallback
+Local model: mistral-nemo-instruct:latest
+PASS real local trail narration: The echoes of battle fade, leaving behind a silent testament to the cost of victory. The empty slot in the formation stands as a grim reminder of the expedition's toll, but the trail ahead beckons, undeterred.
+PASS real local conquest narration: The echoes of battle fade, leaving an empty silence in the once bustling settlement. The Verminhorde's relentless march continues, each victory a stepping stone in the grand campaign to reclaim the shattered remnants of the empire.

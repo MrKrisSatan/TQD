@@ -1,0 +1,283 @@
+282 checks passed
+PASS vermin modest three-unit start
+PASS vermin starter has no locked units
+PASS vermin final sentinel exists
+PASS compact modest three-unit start
+PASS compact starter has no locked units
+PASS compact final sentinel exists
+PASS cinder modest three-unit start
+PASS cinder starter has no locked units
+PASS cinder final sentinel exists
+PASS vault modest three-unit start
+PASS vault starter has no locked units
+PASS vault final sentinel exists
+PASS lumen modest three-unit start
+PASS lumen starter has no locked units
+PASS lumen final sentinel exists
+PASS vesper modest three-unit start
+PASS vesper starter has no locked units
+PASS vesper final sentinel exists
+PASS sepulchre modest three-unit start
+PASS sepulchre starter has no locked units
+PASS sepulchre final sentinel exists
+PASS horn modest three-unit start
+PASS horn starter has no locked units
+PASS horn final sentinel exists
+PASS rift modest three-unit start
+PASS rift starter has no locked units
+PASS rift final sentinel exists
+PASS verdant modest three-unit start
+PASS verdant starter has no locked units
+PASS verdant final sentinel exists
+PASS saurian modest three-unit start
+PASS saurian starter has no locked units
+PASS saurian final sentinel exists
+PASS dawn modest three-unit start
+PASS dawn starter has no locked units
+PASS dawn final sentinel exists
+PASS hollow modest three-unit start
+PASS hollow starter has no locked units
+PASS hollow final sentinel exists
+PASS argent modest three-unit start
+PASS argent starter has no locked units
+PASS argent final sentinel exists
+PASS oathscar modest three-unit start
+PASS oathscar starter has no locked units
+PASS oathscar final sentinel exists
+PASS pelagic modest three-unit start
+PASS pelagic starter has no locked units
+PASS pelagic final sentinel exists
+PASS kiln modest three-unit start
+PASS kiln starter has no locked units
+PASS kiln final sentinel exists
+PASS same seed is reproducible
+PASS different seeds change routes
+PASS seed 1 armory reachable before each sentinel
+PASS seed 2 armory reachable before each sentinel
+PASS seed 3 armory reachable before each sentinel
+PASS seed 4 armory reachable before each sentinel
+PASS seed 5 armory reachable before each sentinel
+PASS seed 6 armory reachable before each sentinel
+PASS seed 7 armory reachable before each sentinel
+PASS seed 8 armory reachable before each sentinel
+PASS seed 9 armory reachable before each sentinel
+PASS seed 10 armory reachable before each sentinel
+PASS seed 11 armory reachable before each sentinel
+PASS seed 12 armory reachable before each sentinel
+PASS seed 13 armory reachable before each sentinel
+PASS seed 14 armory reachable before each sentinel
+PASS seed 15 armory reachable before each sentinel
+PASS seed 16 armory reachable before each sentinel
+PASS seed 17 armory reachable before each sentinel
+PASS seed 18 armory reachable before each sentinel
+PASS seed 19 armory reachable before each sentinel
+PASS seed 20 armory reachable before each sentinel
+PASS seed 21 armory reachable before each sentinel
+PASS seed 22 armory reachable before each sentinel
+PASS seed 23 armory reachable before each sentinel
+PASS seed 24 armory reachable before each sentinel
+PASS seed 25 armory reachable before each sentinel
+PASS seed 26 armory reachable before each sentinel
+PASS seed 27 armory reachable before each sentinel
+PASS seed 28 armory reachable before each sentinel
+PASS seed 29 armory reachable before each sentinel
+PASS seed 30 armory reachable before each sentinel
+PASS initial Verminhorde rewards locked
+PASS active run cannot award a completion
+PASS lost run cannot award a completion
+PASS run 1 keeps persistent army
+PASS opening opposition suits a tiny warband
+PASS run 1 keeps persistent army
+PASS run 1 keeps persistent army
+PASS run 1 keeps persistent army
+PASS run 1 keeps persistent army
+PASS run 1 keeps persistent army
+PASS run 1 keeps persistent army
+PASS run 1 keeps persistent army
+PASS run 1 keeps persistent army
+PASS run 1 keeps persistent army
+PASS final sentinel has titan support
+PASS relay points cannot bypass final boss
+PASS defeating both final guardians wins
+PASS complete run 1 awards once
+PASS run 1 duplicate settlement/save does not award twice
+PASS completed run 1 reload is idempotent
+PASS milestone gating at 1 wins
+PASS run 2 keeps persistent army
+PASS opening opposition suits a tiny warband
+PASS run 2 keeps persistent army
+PASS run 2 keeps persistent army
+PASS run 2 keeps persistent army
+PASS run 2 keeps persistent army
+PASS run 2 keeps persistent army
+PASS run 2 keeps persistent army
+PASS run 2 keeps persistent army
+PASS run 2 keeps persistent army
+PASS run 2 keeps persistent army
+PASS final sentinel has titan support
+PASS relay points cannot bypass final boss
+PASS defeating both final guardians wins
+PASS complete run 2 awards once
+PASS run 2 duplicate settlement/save does not award twice
+PASS completed run 2 reload is idempotent
+PASS milestone gating at 2 wins
+PASS run 3 keeps persistent army
+PASS opening opposition suits a tiny warband
+PASS run 3 keeps persistent army
+PASS run 3 keeps persistent army
+PASS run 3 keeps persistent army
+PASS run 3 keeps persistent army
+PASS run 3 keeps persistent army
+PASS run 3 keeps persistent army
+PASS run 3 keeps persistent army
+PASS run 3 keeps persistent army
+PASS run 3 keeps persistent army
+PASS run 3 keeps persistent army
+PASS final sentinel has titan support
+PASS relay points cannot bypass final boss
+PASS defeating both final guardians wins
+PASS complete run 3 awards once
+PASS run 3 duplicate settlement/save does not award twice
+PASS completed run 3 reload is idempotent
+PASS milestone gating at 3 wins
+PASS run 4 keeps persistent army
+PASS opening opposition suits a tiny warband
+PASS run 4 keeps persistent army
+PASS run 4 keeps persistent army
+PASS run 4 keeps persistent army
+PASS run 4 keeps persistent army
+PASS run 4 keeps persistent army
+PASS run 4 keeps persistent army
+PASS run 4 keeps persistent army
+PASS run 4 keeps persistent army
+PASS final sentinel has titan support
+PASS relay points cannot bypass final boss
+PASS defeating both final guardians wins
+PASS complete run 4 awards once
+PASS run 4 duplicate settlement/save does not award twice
+PASS completed run 4 reload is idempotent
+PASS milestone gating at 4 wins
+PASS run 5 keeps persistent army
+PASS opening opposition suits a tiny warband
+PASS run 5 keeps persistent army
+PASS run 5 keeps persistent army
+PASS run 5 keeps persistent army
+PASS run 5 keeps persistent army
+PASS run 5 keeps persistent army
+PASS run 5 keeps persistent army
+PASS run 5 keeps persistent army
+PASS final sentinel has titan support
+PASS relay points cannot bypass final boss
+PASS defeating both final guardians wins
+PASS complete run 5 awards once
+PASS run 5 duplicate settlement/save does not award twice
+PASS completed run 5 reload is idempotent
+PASS milestone gating at 5 wins
+PASS run 6 keeps persistent army
+PASS opening opposition suits a tiny warband
+PASS run 6 keeps persistent army
+PASS run 6 keeps persistent army
+PASS run 6 keeps persistent army
+PASS run 6 keeps persistent army
+PASS run 6 keeps persistent army
+PASS run 6 keeps persistent army
+PASS run 6 keeps persistent army
+PASS final sentinel has titan support
+PASS relay points cannot bypass final boss
+PASS defeating both final guardians wins
+PASS complete run 6 awards once
+PASS run 6 duplicate settlement/save does not award twice
+PASS completed run 6 reload is idempotent
+PASS milestone gating at 6 wins
+PASS run 7 keeps persistent army
+PASS opening opposition suits a tiny warband
+PASS run 7 keeps persistent army
+PASS run 7 keeps persistent army
+PASS run 7 keeps persistent army
+PASS run 7 keeps persistent army
+PASS run 7 keeps persistent army
+PASS run 7 keeps persistent army
+PASS run 7 keeps persistent army
+PASS run 7 keeps persistent army
+PASS final sentinel has titan support
+PASS relay points cannot bypass final boss
+PASS defeating both final guardians wins
+PASS complete run 7 awards once
+PASS run 7 duplicate settlement/save does not award twice
+PASS completed run 7 reload is idempotent
+PASS milestone gating at 7 wins
+PASS run 8 keeps persistent army
+PASS opening opposition suits a tiny warband
+PASS run 8 keeps persistent army
+PASS run 8 keeps persistent army
+PASS run 8 keeps persistent army
+PASS run 8 keeps persistent army
+PASS run 8 keeps persistent army
+PASS run 8 keeps persistent army
+PASS run 8 keeps persistent army
+PASS run 8 keeps persistent army
+PASS final sentinel has titan support
+PASS relay points cannot bypass final boss
+PASS defeating both final guardians wins
+PASS complete run 8 awards once
+PASS run 8 duplicate settlement/save does not award twice
+PASS completed run 8 reload is idempotent
+PASS milestone gating at 8 wins
+PASS run 9 keeps persistent army
+PASS opening opposition suits a tiny warband
+PASS run 9 keeps persistent army
+PASS run 9 keeps persistent army
+PASS run 9 keeps persistent army
+PASS run 9 keeps persistent army
+PASS run 9 keeps persistent army
+PASS run 9 keeps persistent army
+PASS run 9 keeps persistent army
+PASS run 9 keeps persistent army
+PASS run 9 keeps persistent army
+PASS final sentinel has titan support
+PASS relay points cannot bypass final boss
+PASS defeating both final guardians wins
+PASS complete run 9 awards once
+PASS run 9 duplicate settlement/save does not award twice
+PASS completed run 9 reload is idempotent
+PASS milestone gating at 9 wins
+PASS run 10 keeps persistent army
+PASS opening opposition suits a tiny warband
+PASS run 10 keeps persistent army
+PASS run 10 keeps persistent army
+PASS run 10 keeps persistent army
+PASS run 10 keeps persistent army
+PASS run 10 keeps persistent army
+PASS run 10 keeps persistent army
+PASS run 10 keeps persistent army
+PASS final sentinel has titan support
+PASS relay points cannot bypass final boss
+PASS defeating both final guardians wins
+PASS complete run 10 awards once
+PASS run 10 duplicate settlement/save does not award twice
+PASS completed run 10 reload is idempotent
+PASS milestone gating at 10 wins
+PASS progress is faction specific
+PASS trail can recruit earned gore_maiden
+PASS trail can recruit earned seraphyx
+PASS trail can recruit earned vermin_titan
+PASS conquest can recruit earned gore_maiden
+PASS conquest can recruit earned seraphyx
+PASS conquest can recruit earned vermin_titan
+PASS locked recruits and raised commanders cannot bypass progression
+PASS campaign can grow to twenty formations with a hard cap
+PASS twenty units deploy without overlap (24, 16) west
+PASS twenty units deploy without overlap (24, 16) east
+PASS twenty units deploy without overlap (24, 16) north
+PASS twenty units deploy without overlap (24, 16) south
+PASS twenty units deploy without overlap (32, 22) west
+PASS twenty units deploy without overlap (32, 22) east
+PASS twenty units deploy without overlap (32, 22) north
+PASS twenty units deploy without overlap (32, 22) south
+PASS twenty units deploy without overlap (40, 28) west
+PASS twenty units deploy without overlap (40, 28) east
+PASS twenty units deploy without overlap (40, 28) north
+PASS twenty units deploy without overlap (40, 28) south
+PASS survivors can train during growth
+PASS progression survives independent save/load
+PASS corrupt primary recovers from backup

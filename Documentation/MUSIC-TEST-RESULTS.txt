@@ -1,0 +1,18 @@
+17 music import and routing checks passed
+PASS valid imported track menu
+PASS streaming import menu
+PASS valid imported track trail
+PASS streaming import trail
+PASS valid imported track conquest
+PASS streaming import conquest
+PASS valid imported track battle-epic
+PASS streaming import battle-epic
+PASS valid imported track battle-trailer
+PASS streaming import battle-trailer
+PASS menu overrides saved campaign
+PASS Trail atmosphere
+PASS Conquest atmosphere
+PASS battle preparation music
+PASS live battle playlist
+PASS results return to campaign atmosphere
+PASS both war tracks in playlist

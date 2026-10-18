@@ -1,0 +1,80 @@
+79 terrain, deployment, pathfinding and serialization checks passed.
+PASS terrain dimensions (24, 16) / west
+PASS legal opposing deployments (24, 16) / west
+PASS unique deployment positions (24, 16) / west
+PASS infantry can reach all relays (24, 16) / west
+PASS field save roundtrip (24, 16) / west
+PASS terrain dimensions (24, 16) / east
+PASS legal opposing deployments (24, 16) / east
+PASS unique deployment positions (24, 16) / east
+PASS infantry can reach all relays (24, 16) / east
+PASS field save roundtrip (24, 16) / east
+PASS terrain dimensions (24, 16) / north
+PASS legal opposing deployments (24, 16) / north
+PASS unique deployment positions (24, 16) / north
+PASS infantry can reach all relays (24, 16) / north
+PASS field save roundtrip (24, 16) / north
+PASS terrain dimensions (24, 16) / south
+PASS legal opposing deployments (24, 16) / south
+PASS unique deployment positions (24, 16) / south
+PASS infantry can reach all relays (24, 16) / south
+PASS field save roundtrip (24, 16) / south
+PASS terrain dimensions (32, 22) / west
+PASS legal opposing deployments (32, 22) / west
+PASS unique deployment positions (32, 22) / west
+PASS infantry can reach all relays (32, 22) / west
+PASS field save roundtrip (32, 22) / west
+PASS terrain dimensions (32, 22) / east
+PASS legal opposing deployments (32, 22) / east
+PASS unique deployment positions (32, 22) / east
+PASS infantry can reach all relays (32, 22) / east
+PASS field save roundtrip (32, 22) / east
+PASS terrain dimensions (32, 22) / north
+PASS legal opposing deployments (32, 22) / north
+PASS unique deployment positions (32, 22) / north
+PASS infantry can reach all relays (32, 22) / north
+PASS field save roundtrip (32, 22) / north
+PASS terrain dimensions (32, 22) / south
+PASS legal opposing deployments (32, 22) / south
+PASS unique deployment positions (32, 22) / south
+PASS infantry can reach all relays (32, 22) / south
+PASS field save roundtrip (32, 22) / south
+PASS terrain dimensions (40, 28) / west
+PASS legal opposing deployments (40, 28) / west
+PASS unique deployment positions (40, 28) / west
+PASS infantry can reach all relays (40, 28) / west
+PASS field save roundtrip (40, 28) / west
+PASS terrain dimensions (40, 28) / east
+PASS legal opposing deployments (40, 28) / east
+PASS unique deployment positions (40, 28) / east
+PASS infantry can reach all relays (40, 28) / east
+PASS field save roundtrip (40, 28) / east
+PASS terrain dimensions (40, 28) / north
+PASS legal opposing deployments (40, 28) / north
+PASS unique deployment positions (40, 28) / north
+PASS infantry can reach all relays (40, 28) / north
+PASS field save roundtrip (40, 28) / north
+PASS terrain dimensions (40, 28) / south
+PASS legal opposing deployments (40, 28) / south
+PASS unique deployment positions (40, 28) / south
+PASS infantry can reach all relays (40, 28) / south
+PASS field save roundtrip (40, 28) / south
+PASS ground cannot enter water
+PASS explicit movement traits loaded
+PASS flying enters water
+PASS amphibious enters water
+PASS marsh consumes two movement
+PASS amphibious ignores marsh penalty
+PASS woodland slows ordinary infantry
+PASS buildings block line of sight
+PASS flying crosses buildings without landing inside
+PASS low wall provides directional cover without blocking shots
+PASS rocks provide cover and block sight
+PASS ruins provide cover
+PASS woodland provides cover
+PASS AI finishes terrain battle (24, 16)
+PASS AI respects terrain restrictions (24, 16)
+PASS AI finishes terrain battle (32, 22)
+PASS AI respects terrain restrictions (32, 22)
+PASS AI finishes terrain battle (40, 28)
+PASS AI respects terrain restrictions (40, 28)

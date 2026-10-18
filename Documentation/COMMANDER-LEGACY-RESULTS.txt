@@ -1,0 +1,1811 @@
+1810 commander ownership, reward and recovery checks passed
+PASS every playable commander has exactly one reward track
+PASS marshal cannot bypass another track by treating its rewards as basic units
+PASS marshal starts with independent zero wins
+PASS marshal five valid personal unit rewards
+PASS marshal rewards locked initially
+PASS marshal victory 1 counted once
+PASS marshal milestone gating 1
+PASS marshal milestone has an effect 1
+PASS marshal victory 2 counted once
+PASS marshal milestone gating 2
+PASS marshal milestone has an effect 2
+PASS marshal victory 3 counted once
+PASS marshal milestone gating 3
+PASS marshal milestone has an effect 3
+PASS marshal victory 4 counted once
+PASS marshal milestone gating 4
+PASS marshal milestone has an effect 4
+PASS marshal victory 5 counted once
+PASS marshal milestone gating 5
+PASS marshal milestone has an effect 5
+PASS marshal victory 6 counted once
+PASS marshal milestone gating 6
+PASS marshal milestone has an effect 6
+PASS marshal victory 7 counted once
+PASS marshal milestone gating 7
+PASS marshal milestone has an effect 7
+PASS marshal victory 8 counted once
+PASS marshal milestone gating 8
+PASS marshal milestone has an effect 8
+PASS marshal victory 9 counted once
+PASS marshal milestone gating 9
+PASS marshal milestone has an effect 9
+PASS marshal victory 10 counted once
+PASS marshal milestone gating 10
+PASS marshal milestone has an effect 10
+PASS marshal ten personal victories
+PASS seraphyx cannot bypass another track by treating its rewards as basic units
+PASS seraphyx starts with independent zero wins
+PASS seraphyx five valid personal unit rewards
+PASS seraphyx rewards locked initially
+PASS seraphyx victory 1 counted once
+PASS seraphyx milestone gating 1
+PASS seraphyx milestone has an effect 1
+PASS seraphyx victory 2 counted once
+PASS seraphyx milestone gating 2
+PASS seraphyx milestone has an effect 2
+PASS seraphyx victory 3 counted once
+PASS seraphyx milestone gating 3
+PASS seraphyx milestone has an effect 3
+PASS seraphyx victory 4 counted once
+PASS seraphyx milestone gating 4
+PASS seraphyx milestone has an effect 4
+PASS seraphyx victory 5 counted once
+PASS seraphyx milestone gating 5
+PASS seraphyx milestone has an effect 5
+PASS seraphyx victory 6 counted once
+PASS seraphyx milestone gating 6
+PASS seraphyx milestone has an effect 6
+PASS seraphyx victory 7 counted once
+PASS seraphyx milestone gating 7
+PASS seraphyx milestone has an effect 7
+PASS seraphyx victory 8 counted once
+PASS seraphyx milestone gating 8
+PASS seraphyx milestone has an effect 8
+PASS seraphyx victory 9 counted once
+PASS seraphyx milestone gating 9
+PASS seraphyx milestone has an effect 9
+PASS seraphyx victory 10 counted once
+PASS seraphyx milestone gating 10
+PASS seraphyx milestone has an effect 10
+PASS seraphyx ten personal victories
+PASS captain cannot bypass another track by treating its rewards as basic units
+PASS captain starts with independent zero wins
+PASS captain five valid personal unit rewards
+PASS captain rewards locked initially
+PASS captain victory 1 counted once
+PASS captain milestone gating 1
+PASS captain milestone has an effect 1
+PASS captain victory 2 counted once
+PASS captain milestone gating 2
+PASS captain milestone has an effect 2
+PASS captain victory 3 counted once
+PASS captain milestone gating 3
+PASS captain milestone has an effect 3
+PASS captain victory 4 counted once
+PASS captain milestone gating 4
+PASS captain milestone has an effect 4
+PASS captain victory 5 counted once
+PASS captain milestone gating 5
+PASS captain milestone has an effect 5
+PASS captain victory 6 counted once
+PASS captain milestone gating 6
+PASS captain milestone has an effect 6
+PASS captain victory 7 counted once
+PASS captain milestone gating 7
+PASS captain milestone has an effect 7
+PASS captain victory 8 counted once
+PASS captain milestone gating 8
+PASS captain milestone has an effect 8
+PASS captain victory 9 counted once
+PASS captain milestone gating 9
+PASS captain milestone has an effect 9
+PASS captain victory 10 counted once
+PASS captain milestone gating 10
+PASS captain milestone has an effect 10
+PASS captain ten personal victories
+PASS compact_2 cannot bypass another track by treating its rewards as basic units
+PASS compact_2 starts with independent zero wins
+PASS compact_2 five valid personal unit rewards
+PASS compact_2 rewards locked initially
+PASS compact_2 victory 1 counted once
+PASS compact_2 milestone gating 1
+PASS compact_2 milestone has an effect 1
+PASS compact_2 victory 2 counted once
+PASS compact_2 milestone gating 2
+PASS compact_2 milestone has an effect 2
+PASS compact_2 victory 3 counted once
+PASS compact_2 milestone gating 3
+PASS compact_2 milestone has an effect 3
+PASS compact_2 victory 4 counted once
+PASS compact_2 milestone gating 4
+PASS compact_2 milestone has an effect 4
+PASS compact_2 victory 5 counted once
+PASS compact_2 milestone gating 5
+PASS compact_2 milestone has an effect 5
+PASS compact_2 victory 6 counted once
+PASS compact_2 milestone gating 6
+PASS compact_2 milestone has an effect 6
+PASS compact_2 victory 7 counted once
+PASS compact_2 milestone gating 7
+PASS compact_2 milestone has an effect 7
+PASS compact_2 victory 8 counted once
+PASS compact_2 milestone gating 8
+PASS compact_2 milestone has an effect 8
+PASS compact_2 victory 9 counted once
+PASS compact_2 milestone gating 9
+PASS compact_2 milestone has an effect 9
+PASS compact_2 victory 10 counted once
+PASS compact_2 milestone gating 10
+PASS compact_2 milestone has an effect 10
+PASS compact_2 ten personal victories
+PASS compact_3 cannot bypass another track by treating its rewards as basic units
+PASS compact_3 starts with independent zero wins
+PASS compact_3 five valid personal unit rewards
+PASS compact_3 rewards locked initially
+PASS compact_3 victory 1 counted once
+PASS compact_3 milestone gating 1
+PASS compact_3 milestone has an effect 1
+PASS compact_3 victory 2 counted once
+PASS compact_3 milestone gating 2
+PASS compact_3 milestone has an effect 2
+PASS compact_3 victory 3 counted once
+PASS compact_3 milestone gating 3
+PASS compact_3 milestone has an effect 3
+PASS compact_3 victory 4 counted once
+PASS compact_3 milestone gating 4
+PASS compact_3 milestone has an effect 4
+PASS compact_3 victory 5 counted once
+PASS compact_3 milestone gating 5
+PASS compact_3 milestone has an effect 5
+PASS compact_3 victory 6 counted once
+PASS compact_3 milestone gating 6
+PASS compact_3 milestone has an effect 6
+PASS compact_3 victory 7 counted once
+PASS compact_3 milestone gating 7
+PASS compact_3 milestone has an effect 7
+PASS compact_3 victory 8 counted once
+PASS compact_3 milestone gating 8
+PASS compact_3 milestone has an effect 8
+PASS compact_3 victory 9 counted once
+PASS compact_3 milestone gating 9
+PASS compact_3 milestone has an effect 9
+PASS compact_3 victory 10 counted once
+PASS compact_3 milestone gating 10
+PASS compact_3 milestone has an effect 10
+PASS compact_3 ten personal victories
+PASS compact_4 cannot bypass another track by treating its rewards as basic units
+PASS compact_4 starts with independent zero wins
+PASS compact_4 five valid personal unit rewards
+PASS compact_4 rewards locked initially
+PASS compact_4 victory 1 counted once
+PASS compact_4 milestone gating 1
+PASS compact_4 milestone has an effect 1
+PASS compact_4 victory 2 counted once
+PASS compact_4 milestone gating 2
+PASS compact_4 milestone has an effect 2
+PASS compact_4 victory 3 counted once
+PASS compact_4 milestone gating 3
+PASS compact_4 milestone has an effect 3
+PASS compact_4 victory 4 counted once
+PASS compact_4 milestone gating 4
+PASS compact_4 milestone has an effect 4
+PASS compact_4 victory 5 counted once
+PASS compact_4 milestone gating 5
+PASS compact_4 milestone has an effect 5
+PASS compact_4 victory 6 counted once
+PASS compact_4 milestone gating 6
+PASS compact_4 milestone has an effect 6
+PASS compact_4 victory 7 counted once
+PASS compact_4 milestone gating 7
+PASS compact_4 milestone has an effect 7
+PASS compact_4 victory 8 counted once
+PASS compact_4 milestone gating 8
+PASS compact_4 milestone has an effect 8
+PASS compact_4 victory 9 counted once
+PASS compact_4 milestone gating 9
+PASS compact_4 milestone has an effect 9
+PASS compact_4 victory 10 counted once
+PASS compact_4 milestone gating 10
+PASS compact_4 milestone has an effect 10
+PASS compact_4 ten personal victories
+PASS cinder_10 cannot bypass another track by treating its rewards as basic units
+PASS cinder_10 starts with independent zero wins
+PASS cinder_10 five valid personal unit rewards
+PASS cinder_10 rewards locked initially
+PASS cinder_10 victory 1 counted once
+PASS cinder_10 milestone gating 1
+PASS cinder_10 milestone has an effect 1
+PASS cinder_10 victory 2 counted once
+PASS cinder_10 milestone gating 2
+PASS cinder_10 milestone has an effect 2
+PASS cinder_10 victory 3 counted once
+PASS cinder_10 milestone gating 3
+PASS cinder_10 milestone has an effect 3
+PASS cinder_10 victory 4 counted once
+PASS cinder_10 milestone gating 4
+PASS cinder_10 milestone has an effect 4
+PASS cinder_10 victory 5 counted once
+PASS cinder_10 milestone gating 5
+PASS cinder_10 milestone has an effect 5
+PASS cinder_10 victory 6 counted once
+PASS cinder_10 milestone gating 6
+PASS cinder_10 milestone has an effect 6
+PASS cinder_10 victory 7 counted once
+PASS cinder_10 milestone gating 7
+PASS cinder_10 milestone has an effect 7
+PASS cinder_10 victory 8 counted once
+PASS cinder_10 milestone gating 8
+PASS cinder_10 milestone has an effect 8
+PASS cinder_10 victory 9 counted once
+PASS cinder_10 milestone gating 9
+PASS cinder_10 milestone has an effect 9
+PASS cinder_10 victory 10 counted once
+PASS cinder_10 milestone gating 10
+PASS cinder_10 milestone has an effect 10
+PASS cinder_10 ten personal victories
+PASS cinder_11 cannot bypass another track by treating its rewards as basic units
+PASS cinder_11 starts with independent zero wins
+PASS cinder_11 five valid personal unit rewards
+PASS cinder_11 rewards locked initially
+PASS cinder_11 victory 1 counted once
+PASS cinder_11 milestone gating 1
+PASS cinder_11 milestone has an effect 1
+PASS cinder_11 victory 2 counted once
+PASS cinder_11 milestone gating 2
+PASS cinder_11 milestone has an effect 2
+PASS cinder_11 victory 3 counted once
+PASS cinder_11 milestone gating 3
+PASS cinder_11 milestone has an effect 3
+PASS cinder_11 victory 4 counted once
+PASS cinder_11 milestone gating 4
+PASS cinder_11 milestone has an effect 4
+PASS cinder_11 victory 5 counted once
+PASS cinder_11 milestone gating 5
+PASS cinder_11 milestone has an effect 5
+PASS cinder_11 victory 6 counted once
+PASS cinder_11 milestone gating 6
+PASS cinder_11 milestone has an effect 6
+PASS cinder_11 victory 7 counted once
+PASS cinder_11 milestone gating 7
+PASS cinder_11 milestone has an effect 7
+PASS cinder_11 victory 8 counted once
+PASS cinder_11 milestone gating 8
+PASS cinder_11 milestone has an effect 8
+PASS cinder_11 victory 9 counted once
+PASS cinder_11 milestone gating 9
+PASS cinder_11 milestone has an effect 9
+PASS cinder_11 victory 10 counted once
+PASS cinder_11 milestone gating 10
+PASS cinder_11 milestone has an effect 10
+PASS cinder_11 ten personal victories
+PASS cinder_12 cannot bypass another track by treating its rewards as basic units
+PASS cinder_12 starts with independent zero wins
+PASS cinder_12 five valid personal unit rewards
+PASS cinder_12 rewards locked initially
+PASS cinder_12 victory 1 counted once
+PASS cinder_12 milestone gating 1
+PASS cinder_12 milestone has an effect 1
+PASS cinder_12 victory 2 counted once
+PASS cinder_12 milestone gating 2
+PASS cinder_12 milestone has an effect 2
+PASS cinder_12 victory 3 counted once
+PASS cinder_12 milestone gating 3
+PASS cinder_12 milestone has an effect 3
+PASS cinder_12 victory 4 counted once
+PASS cinder_12 milestone gating 4
+PASS cinder_12 milestone has an effect 4
+PASS cinder_12 victory 5 counted once
+PASS cinder_12 milestone gating 5
+PASS cinder_12 milestone has an effect 5
+PASS cinder_12 victory 6 counted once
+PASS cinder_12 milestone gating 6
+PASS cinder_12 milestone has an effect 6
+PASS cinder_12 victory 7 counted once
+PASS cinder_12 milestone gating 7
+PASS cinder_12 milestone has an effect 7
+PASS cinder_12 victory 8 counted once
+PASS cinder_12 milestone gating 8
+PASS cinder_12 milestone has an effect 8
+PASS cinder_12 victory 9 counted once
+PASS cinder_12 milestone gating 9
+PASS cinder_12 milestone has an effect 9
+PASS cinder_12 victory 10 counted once
+PASS cinder_12 milestone gating 10
+PASS cinder_12 milestone has an effect 10
+PASS cinder_12 ten personal victories
+PASS vault_10 cannot bypass another track by treating its rewards as basic units
+PASS vault_10 starts with independent zero wins
+PASS vault_10 five valid personal unit rewards
+PASS vault_10 rewards locked initially
+PASS vault_10 victory 1 counted once
+PASS vault_10 milestone gating 1
+PASS vault_10 milestone has an effect 1
+PASS vault_10 victory 2 counted once
+PASS vault_10 milestone gating 2
+PASS vault_10 milestone has an effect 2
+PASS vault_10 victory 3 counted once
+PASS vault_10 milestone gating 3
+PASS vault_10 milestone has an effect 3
+PASS vault_10 victory 4 counted once
+PASS vault_10 milestone gating 4
+PASS vault_10 milestone has an effect 4
+PASS vault_10 victory 5 counted once
+PASS vault_10 milestone gating 5
+PASS vault_10 milestone has an effect 5
+PASS vault_10 victory 6 counted once
+PASS vault_10 milestone gating 6
+PASS vault_10 milestone has an effect 6
+PASS vault_10 victory 7 counted once
+PASS vault_10 milestone gating 7
+PASS vault_10 milestone has an effect 7
+PASS vault_10 victory 8 counted once
+PASS vault_10 milestone gating 8
+PASS vault_10 milestone has an effect 8
+PASS vault_10 victory 9 counted once
+PASS vault_10 milestone gating 9
+PASS vault_10 milestone has an effect 9
+PASS vault_10 victory 10 counted once
+PASS vault_10 milestone gating 10
+PASS vault_10 milestone has an effect 10
+PASS vault_10 ten personal victories
+PASS vault_11 cannot bypass another track by treating its rewards as basic units
+PASS vault_11 starts with independent zero wins
+PASS vault_11 five valid personal unit rewards
+PASS vault_11 rewards locked initially
+PASS vault_11 victory 1 counted once
+PASS vault_11 milestone gating 1
+PASS vault_11 milestone has an effect 1
+PASS vault_11 victory 2 counted once
+PASS vault_11 milestone gating 2
+PASS vault_11 milestone has an effect 2
+PASS vault_11 victory 3 counted once
+PASS vault_11 milestone gating 3
+PASS vault_11 milestone has an effect 3
+PASS vault_11 victory 4 counted once
+PASS vault_11 milestone gating 4
+PASS vault_11 milestone has an effect 4
+PASS vault_11 victory 5 counted once
+PASS vault_11 milestone gating 5
+PASS vault_11 milestone has an effect 5
+PASS vault_11 victory 6 counted once
+PASS vault_11 milestone gating 6
+PASS vault_11 milestone has an effect 6
+PASS vault_11 victory 7 counted once
+PASS vault_11 milestone gating 7
+PASS vault_11 milestone has an effect 7
+PASS vault_11 victory 8 counted once
+PASS vault_11 milestone gating 8
+PASS vault_11 milestone has an effect 8
+PASS vault_11 victory 9 counted once
+PASS vault_11 milestone gating 9
+PASS vault_11 milestone has an effect 9
+PASS vault_11 victory 10 counted once
+PASS vault_11 milestone gating 10
+PASS vault_11 milestone has an effect 10
+PASS vault_11 ten personal victories
+PASS vault_12 cannot bypass another track by treating its rewards as basic units
+PASS vault_12 starts with independent zero wins
+PASS vault_12 five valid personal unit rewards
+PASS vault_12 rewards locked initially
+PASS vault_12 victory 1 counted once
+PASS vault_12 milestone gating 1
+PASS vault_12 milestone has an effect 1
+PASS vault_12 victory 2 counted once
+PASS vault_12 milestone gating 2
+PASS vault_12 milestone has an effect 2
+PASS vault_12 victory 3 counted once
+PASS vault_12 milestone gating 3
+PASS vault_12 milestone has an effect 3
+PASS vault_12 victory 4 counted once
+PASS vault_12 milestone gating 4
+PASS vault_12 milestone has an effect 4
+PASS vault_12 victory 5 counted once
+PASS vault_12 milestone gating 5
+PASS vault_12 milestone has an effect 5
+PASS vault_12 victory 6 counted once
+PASS vault_12 milestone gating 6
+PASS vault_12 milestone has an effect 6
+PASS vault_12 victory 7 counted once
+PASS vault_12 milestone gating 7
+PASS vault_12 milestone has an effect 7
+PASS vault_12 victory 8 counted once
+PASS vault_12 milestone gating 8
+PASS vault_12 milestone has an effect 8
+PASS vault_12 victory 9 counted once
+PASS vault_12 milestone gating 9
+PASS vault_12 milestone has an effect 9
+PASS vault_12 victory 10 counted once
+PASS vault_12 milestone gating 10
+PASS vault_12 milestone has an effect 10
+PASS vault_12 ten personal victories
+PASS lumen_10 cannot bypass another track by treating its rewards as basic units
+PASS lumen_10 starts with independent zero wins
+PASS lumen_10 five valid personal unit rewards
+PASS lumen_10 rewards locked initially
+PASS lumen_10 victory 1 counted once
+PASS lumen_10 milestone gating 1
+PASS lumen_10 milestone has an effect 1
+PASS lumen_10 victory 2 counted once
+PASS lumen_10 milestone gating 2
+PASS lumen_10 milestone has an effect 2
+PASS lumen_10 victory 3 counted once
+PASS lumen_10 milestone gating 3
+PASS lumen_10 milestone has an effect 3
+PASS lumen_10 victory 4 counted once
+PASS lumen_10 milestone gating 4
+PASS lumen_10 milestone has an effect 4
+PASS lumen_10 victory 5 counted once
+PASS lumen_10 milestone gating 5
+PASS lumen_10 milestone has an effect 5
+PASS lumen_10 victory 6 counted once
+PASS lumen_10 milestone gating 6
+PASS lumen_10 milestone has an effect 6
+PASS lumen_10 victory 7 counted once
+PASS lumen_10 milestone gating 7
+PASS lumen_10 milestone has an effect 7
+PASS lumen_10 victory 8 counted once
+PASS lumen_10 milestone gating 8
+PASS lumen_10 milestone has an effect 8
+PASS lumen_10 victory 9 counted once
+PASS lumen_10 milestone gating 9
+PASS lumen_10 milestone has an effect 9
+PASS lumen_10 victory 10 counted once
+PASS lumen_10 milestone gating 10
+PASS lumen_10 milestone has an effect 10
+PASS lumen_10 ten personal victories
+PASS lumen_11 cannot bypass another track by treating its rewards as basic units
+PASS lumen_11 starts with independent zero wins
+PASS lumen_11 five valid personal unit rewards
+PASS lumen_11 rewards locked initially
+PASS lumen_11 victory 1 counted once
+PASS lumen_11 milestone gating 1
+PASS lumen_11 milestone has an effect 1
+PASS lumen_11 victory 2 counted once
+PASS lumen_11 milestone gating 2
+PASS lumen_11 milestone has an effect 2
+PASS lumen_11 victory 3 counted once
+PASS lumen_11 milestone gating 3
+PASS lumen_11 milestone has an effect 3
+PASS lumen_11 victory 4 counted once
+PASS lumen_11 milestone gating 4
+PASS lumen_11 milestone has an effect 4
+PASS lumen_11 victory 5 counted once
+PASS lumen_11 milestone gating 5
+PASS lumen_11 milestone has an effect 5
+PASS lumen_11 victory 6 counted once
+PASS lumen_11 milestone gating 6
+PASS lumen_11 milestone has an effect 6
+PASS lumen_11 victory 7 counted once
+PASS lumen_11 milestone gating 7
+PASS lumen_11 milestone has an effect 7
+PASS lumen_11 victory 8 counted once
+PASS lumen_11 milestone gating 8
+PASS lumen_11 milestone has an effect 8
+PASS lumen_11 victory 9 counted once
+PASS lumen_11 milestone gating 9
+PASS lumen_11 milestone has an effect 9
+PASS lumen_11 victory 10 counted once
+PASS lumen_11 milestone gating 10
+PASS lumen_11 milestone has an effect 10
+PASS lumen_11 ten personal victories
+PASS lumen_12 cannot bypass another track by treating its rewards as basic units
+PASS lumen_12 starts with independent zero wins
+PASS lumen_12 five valid personal unit rewards
+PASS lumen_12 rewards locked initially
+PASS lumen_12 victory 1 counted once
+PASS lumen_12 milestone gating 1
+PASS lumen_12 milestone has an effect 1
+PASS lumen_12 victory 2 counted once
+PASS lumen_12 milestone gating 2
+PASS lumen_12 milestone has an effect 2
+PASS lumen_12 victory 3 counted once
+PASS lumen_12 milestone gating 3
+PASS lumen_12 milestone has an effect 3
+PASS lumen_12 victory 4 counted once
+PASS lumen_12 milestone gating 4
+PASS lumen_12 milestone has an effect 4
+PASS lumen_12 victory 5 counted once
+PASS lumen_12 milestone gating 5
+PASS lumen_12 milestone has an effect 5
+PASS lumen_12 victory 6 counted once
+PASS lumen_12 milestone gating 6
+PASS lumen_12 milestone has an effect 6
+PASS lumen_12 victory 7 counted once
+PASS lumen_12 milestone gating 7
+PASS lumen_12 milestone has an effect 7
+PASS lumen_12 victory 8 counted once
+PASS lumen_12 milestone gating 8
+PASS lumen_12 milestone has an effect 8
+PASS lumen_12 victory 9 counted once
+PASS lumen_12 milestone gating 9
+PASS lumen_12 milestone has an effect 9
+PASS lumen_12 victory 10 counted once
+PASS lumen_12 milestone gating 10
+PASS lumen_12 milestone has an effect 10
+PASS lumen_12 ten personal victories
+PASS vesper_10 cannot bypass another track by treating its rewards as basic units
+PASS vesper_10 starts with independent zero wins
+PASS vesper_10 five valid personal unit rewards
+PASS vesper_10 rewards locked initially
+PASS vesper_10 victory 1 counted once
+PASS vesper_10 milestone gating 1
+PASS vesper_10 milestone has an effect 1
+PASS vesper_10 victory 2 counted once
+PASS vesper_10 milestone gating 2
+PASS vesper_10 milestone has an effect 2
+PASS vesper_10 victory 3 counted once
+PASS vesper_10 milestone gating 3
+PASS vesper_10 milestone has an effect 3
+PASS vesper_10 victory 4 counted once
+PASS vesper_10 milestone gating 4
+PASS vesper_10 milestone has an effect 4
+PASS vesper_10 victory 5 counted once
+PASS vesper_10 milestone gating 5
+PASS vesper_10 milestone has an effect 5
+PASS vesper_10 victory 6 counted once
+PASS vesper_10 milestone gating 6
+PASS vesper_10 milestone has an effect 6
+PASS vesper_10 victory 7 counted once
+PASS vesper_10 milestone gating 7
+PASS vesper_10 milestone has an effect 7
+PASS vesper_10 victory 8 counted once
+PASS vesper_10 milestone gating 8
+PASS vesper_10 milestone has an effect 8
+PASS vesper_10 victory 9 counted once
+PASS vesper_10 milestone gating 9
+PASS vesper_10 milestone has an effect 9
+PASS vesper_10 victory 10 counted once
+PASS vesper_10 milestone gating 10
+PASS vesper_10 milestone has an effect 10
+PASS vesper_10 ten personal victories
+PASS vesper_11 cannot bypass another track by treating its rewards as basic units
+PASS vesper_11 starts with independent zero wins
+PASS vesper_11 five valid personal unit rewards
+PASS vesper_11 rewards locked initially
+PASS vesper_11 victory 1 counted once
+PASS vesper_11 milestone gating 1
+PASS vesper_11 milestone has an effect 1
+PASS vesper_11 victory 2 counted once
+PASS vesper_11 milestone gating 2
+PASS vesper_11 milestone has an effect 2
+PASS vesper_11 victory 3 counted once
+PASS vesper_11 milestone gating 3
+PASS vesper_11 milestone has an effect 3
+PASS vesper_11 victory 4 counted once
+PASS vesper_11 milestone gating 4
+PASS vesper_11 milestone has an effect 4
+PASS vesper_11 victory 5 counted once
+PASS vesper_11 milestone gating 5
+PASS vesper_11 milestone has an effect 5
+PASS vesper_11 victory 6 counted once
+PASS vesper_11 milestone gating 6
+PASS vesper_11 milestone has an effect 6
+PASS vesper_11 victory 7 counted once
+PASS vesper_11 milestone gating 7
+PASS vesper_11 milestone has an effect 7
+PASS vesper_11 victory 8 counted once
+PASS vesper_11 milestone gating 8
+PASS vesper_11 milestone has an effect 8
+PASS vesper_11 victory 9 counted once
+PASS vesper_11 milestone gating 9
+PASS vesper_11 milestone has an effect 9
+PASS vesper_11 victory 10 counted once
+PASS vesper_11 milestone gating 10
+PASS vesper_11 milestone has an effect 10
+PASS vesper_11 ten personal victories
+PASS vesper_12 cannot bypass another track by treating its rewards as basic units
+PASS vesper_12 starts with independent zero wins
+PASS vesper_12 five valid personal unit rewards
+PASS vesper_12 rewards locked initially
+PASS vesper_12 victory 1 counted once
+PASS vesper_12 milestone gating 1
+PASS vesper_12 milestone has an effect 1
+PASS vesper_12 victory 2 counted once
+PASS vesper_12 milestone gating 2
+PASS vesper_12 milestone has an effect 2
+PASS vesper_12 victory 3 counted once
+PASS vesper_12 milestone gating 3
+PASS vesper_12 milestone has an effect 3
+PASS vesper_12 victory 4 counted once
+PASS vesper_12 milestone gating 4
+PASS vesper_12 milestone has an effect 4
+PASS vesper_12 victory 5 counted once
+PASS vesper_12 milestone gating 5
+PASS vesper_12 milestone has an effect 5
+PASS vesper_12 victory 6 counted once
+PASS vesper_12 milestone gating 6
+PASS vesper_12 milestone has an effect 6
+PASS vesper_12 victory 7 counted once
+PASS vesper_12 milestone gating 7
+PASS vesper_12 milestone has an effect 7
+PASS vesper_12 victory 8 counted once
+PASS vesper_12 milestone gating 8
+PASS vesper_12 milestone has an effect 8
+PASS vesper_12 victory 9 counted once
+PASS vesper_12 milestone gating 9
+PASS vesper_12 milestone has an effect 9
+PASS vesper_12 victory 10 counted once
+PASS vesper_12 milestone gating 10
+PASS vesper_12 milestone has an effect 10
+PASS vesper_12 ten personal victories
+PASS sepulchre_10 cannot bypass another track by treating its rewards as basic units
+PASS sepulchre_10 starts with independent zero wins
+PASS sepulchre_10 five valid personal unit rewards
+PASS sepulchre_10 rewards locked initially
+PASS sepulchre_10 victory 1 counted once
+PASS sepulchre_10 milestone gating 1
+PASS sepulchre_10 milestone has an effect 1
+PASS sepulchre_10 victory 2 counted once
+PASS sepulchre_10 milestone gating 2
+PASS sepulchre_10 milestone has an effect 2
+PASS sepulchre_10 victory 3 counted once
+PASS sepulchre_10 milestone gating 3
+PASS sepulchre_10 milestone has an effect 3
+PASS sepulchre_10 victory 4 counted once
+PASS sepulchre_10 milestone gating 4
+PASS sepulchre_10 milestone has an effect 4
+PASS sepulchre_10 victory 5 counted once
+PASS sepulchre_10 milestone gating 5
+PASS sepulchre_10 milestone has an effect 5
+PASS sepulchre_10 victory 6 counted once
+PASS sepulchre_10 milestone gating 6
+PASS sepulchre_10 milestone has an effect 6
+PASS sepulchre_10 victory 7 counted once
+PASS sepulchre_10 milestone gating 7
+PASS sepulchre_10 milestone has an effect 7
+PASS sepulchre_10 victory 8 counted once
+PASS sepulchre_10 milestone gating 8
+PASS sepulchre_10 milestone has an effect 8
+PASS sepulchre_10 victory 9 counted once
+PASS sepulchre_10 milestone gating 9
+PASS sepulchre_10 milestone has an effect 9
+PASS sepulchre_10 victory 10 counted once
+PASS sepulchre_10 milestone gating 10
+PASS sepulchre_10 milestone has an effect 10
+PASS sepulchre_10 ten personal victories
+PASS sepulchre_11 cannot bypass another track by treating its rewards as basic units
+PASS sepulchre_11 starts with independent zero wins
+PASS sepulchre_11 five valid personal unit rewards
+PASS sepulchre_11 rewards locked initially
+PASS sepulchre_11 victory 1 counted once
+PASS sepulchre_11 milestone gating 1
+PASS sepulchre_11 milestone has an effect 1
+PASS sepulchre_11 victory 2 counted once
+PASS sepulchre_11 milestone gating 2
+PASS sepulchre_11 milestone has an effect 2
+PASS sepulchre_11 victory 3 counted once
+PASS sepulchre_11 milestone gating 3
+PASS sepulchre_11 milestone has an effect 3
+PASS sepulchre_11 victory 4 counted once
+PASS sepulchre_11 milestone gating 4
+PASS sepulchre_11 milestone has an effect 4
+PASS sepulchre_11 victory 5 counted once
+PASS sepulchre_11 milestone gating 5
+PASS sepulchre_11 milestone has an effect 5
+PASS sepulchre_11 victory 6 counted once
+PASS sepulchre_11 milestone gating 6
+PASS sepulchre_11 milestone has an effect 6
+PASS sepulchre_11 victory 7 counted once
+PASS sepulchre_11 milestone gating 7
+PASS sepulchre_11 milestone has an effect 7
+PASS sepulchre_11 victory 8 counted once
+PASS sepulchre_11 milestone gating 8
+PASS sepulchre_11 milestone has an effect 8
+PASS sepulchre_11 victory 9 counted once
+PASS sepulchre_11 milestone gating 9
+PASS sepulchre_11 milestone has an effect 9
+PASS sepulchre_11 victory 10 counted once
+PASS sepulchre_11 milestone gating 10
+PASS sepulchre_11 milestone has an effect 10
+PASS sepulchre_11 ten personal victories
+PASS sepulchre_12 cannot bypass another track by treating its rewards as basic units
+PASS sepulchre_12 starts with independent zero wins
+PASS sepulchre_12 five valid personal unit rewards
+PASS sepulchre_12 rewards locked initially
+PASS sepulchre_12 victory 1 counted once
+PASS sepulchre_12 milestone gating 1
+PASS sepulchre_12 milestone has an effect 1
+PASS sepulchre_12 victory 2 counted once
+PASS sepulchre_12 milestone gating 2
+PASS sepulchre_12 milestone has an effect 2
+PASS sepulchre_12 victory 3 counted once
+PASS sepulchre_12 milestone gating 3
+PASS sepulchre_12 milestone has an effect 3
+PASS sepulchre_12 victory 4 counted once
+PASS sepulchre_12 milestone gating 4
+PASS sepulchre_12 milestone has an effect 4
+PASS sepulchre_12 victory 5 counted once
+PASS sepulchre_12 milestone gating 5
+PASS sepulchre_12 milestone has an effect 5
+PASS sepulchre_12 victory 6 counted once
+PASS sepulchre_12 milestone gating 6
+PASS sepulchre_12 milestone has an effect 6
+PASS sepulchre_12 victory 7 counted once
+PASS sepulchre_12 milestone gating 7
+PASS sepulchre_12 milestone has an effect 7
+PASS sepulchre_12 victory 8 counted once
+PASS sepulchre_12 milestone gating 8
+PASS sepulchre_12 milestone has an effect 8
+PASS sepulchre_12 victory 9 counted once
+PASS sepulchre_12 milestone gating 9
+PASS sepulchre_12 milestone has an effect 9
+PASS sepulchre_12 victory 10 counted once
+PASS sepulchre_12 milestone gating 10
+PASS sepulchre_12 milestone has an effect 10
+PASS sepulchre_12 ten personal victories
+PASS horn_10 cannot bypass another track by treating its rewards as basic units
+PASS horn_10 starts with independent zero wins
+PASS horn_10 five valid personal unit rewards
+PASS horn_10 rewards locked initially
+PASS horn_10 victory 1 counted once
+PASS horn_10 milestone gating 1
+PASS horn_10 milestone has an effect 1
+PASS horn_10 victory 2 counted once
+PASS horn_10 milestone gating 2
+PASS horn_10 milestone has an effect 2
+PASS horn_10 victory 3 counted once
+PASS horn_10 milestone gating 3
+PASS horn_10 milestone has an effect 3
+PASS horn_10 victory 4 counted once
+PASS horn_10 milestone gating 4
+PASS horn_10 milestone has an effect 4
+PASS horn_10 victory 5 counted once
+PASS horn_10 milestone gating 5
+PASS horn_10 milestone has an effect 5
+PASS horn_10 victory 6 counted once
+PASS horn_10 milestone gating 6
+PASS horn_10 milestone has an effect 6
+PASS horn_10 victory 7 counted once
+PASS horn_10 milestone gating 7
+PASS horn_10 milestone has an effect 7
+PASS horn_10 victory 8 counted once
+PASS horn_10 milestone gating 8
+PASS horn_10 milestone has an effect 8
+PASS horn_10 victory 9 counted once
+PASS horn_10 milestone gating 9
+PASS horn_10 milestone has an effect 9
+PASS horn_10 victory 10 counted once
+PASS horn_10 milestone gating 10
+PASS horn_10 milestone has an effect 10
+PASS horn_10 ten personal victories
+PASS horn_11 cannot bypass another track by treating its rewards as basic units
+PASS horn_11 starts with independent zero wins
+PASS horn_11 five valid personal unit rewards
+PASS horn_11 rewards locked initially
+PASS horn_11 victory 1 counted once
+PASS horn_11 milestone gating 1
+PASS horn_11 milestone has an effect 1
+PASS horn_11 victory 2 counted once
+PASS horn_11 milestone gating 2
+PASS horn_11 milestone has an effect 2
+PASS horn_11 victory 3 counted once
+PASS horn_11 milestone gating 3
+PASS horn_11 milestone has an effect 3
+PASS horn_11 victory 4 counted once
+PASS horn_11 milestone gating 4
+PASS horn_11 milestone has an effect 4
+PASS horn_11 victory 5 counted once
+PASS horn_11 milestone gating 5
+PASS horn_11 milestone has an effect 5
+PASS horn_11 victory 6 counted once
+PASS horn_11 milestone gating 6
+PASS horn_11 milestone has an effect 6
+PASS horn_11 victory 7 counted once
+PASS horn_11 milestone gating 7
+PASS horn_11 milestone has an effect 7
+PASS horn_11 victory 8 counted once
+PASS horn_11 milestone gating 8
+PASS horn_11 milestone has an effect 8
+PASS horn_11 victory 9 counted once
+PASS horn_11 milestone gating 9
+PASS horn_11 milestone has an effect 9
+PASS horn_11 victory 10 counted once
+PASS horn_11 milestone gating 10
+PASS horn_11 milestone has an effect 10
+PASS horn_11 ten personal victories
+PASS horn_12 cannot bypass another track by treating its rewards as basic units
+PASS horn_12 starts with independent zero wins
+PASS horn_12 five valid personal unit rewards
+PASS horn_12 rewards locked initially
+PASS horn_12 victory 1 counted once
+PASS horn_12 milestone gating 1
+PASS horn_12 milestone has an effect 1
+PASS horn_12 victory 2 counted once
+PASS horn_12 milestone gating 2
+PASS horn_12 milestone has an effect 2
+PASS horn_12 victory 3 counted once
+PASS horn_12 milestone gating 3
+PASS horn_12 milestone has an effect 3
+PASS horn_12 victory 4 counted once
+PASS horn_12 milestone gating 4
+PASS horn_12 milestone has an effect 4
+PASS horn_12 victory 5 counted once
+PASS horn_12 milestone gating 5
+PASS horn_12 milestone has an effect 5
+PASS horn_12 victory 6 counted once
+PASS horn_12 milestone gating 6
+PASS horn_12 milestone has an effect 6
+PASS horn_12 victory 7 counted once
+PASS horn_12 milestone gating 7
+PASS horn_12 milestone has an effect 7
+PASS horn_12 victory 8 counted once
+PASS horn_12 milestone gating 8
+PASS horn_12 milestone has an effect 8
+PASS horn_12 victory 9 counted once
+PASS horn_12 milestone gating 9
+PASS horn_12 milestone has an effect 9
+PASS horn_12 victory 10 counted once
+PASS horn_12 milestone gating 10
+PASS horn_12 milestone has an effect 10
+PASS horn_12 ten personal victories
+PASS rift_10 cannot bypass another track by treating its rewards as basic units
+PASS rift_10 starts with independent zero wins
+PASS rift_10 five valid personal unit rewards
+PASS rift_10 rewards locked initially
+PASS rift_10 victory 1 counted once
+PASS rift_10 milestone gating 1
+PASS rift_10 milestone has an effect 1
+PASS rift_10 victory 2 counted once
+PASS rift_10 milestone gating 2
+PASS rift_10 milestone has an effect 2
+PASS rift_10 victory 3 counted once
+PASS rift_10 milestone gating 3
+PASS rift_10 milestone has an effect 3
+PASS rift_10 victory 4 counted once
+PASS rift_10 milestone gating 4
+PASS rift_10 milestone has an effect 4
+PASS rift_10 victory 5 counted once
+PASS rift_10 milestone gating 5
+PASS rift_10 milestone has an effect 5
+PASS rift_10 victory 6 counted once
+PASS rift_10 milestone gating 6
+PASS rift_10 milestone has an effect 6
+PASS rift_10 victory 7 counted once
+PASS rift_10 milestone gating 7
+PASS rift_10 milestone has an effect 7
+PASS rift_10 victory 8 counted once
+PASS rift_10 milestone gating 8
+PASS rift_10 milestone has an effect 8
+PASS rift_10 victory 9 counted once
+PASS rift_10 milestone gating 9
+PASS rift_10 milestone has an effect 9
+PASS rift_10 victory 10 counted once
+PASS rift_10 milestone gating 10
+PASS rift_10 milestone has an effect 10
+PASS rift_10 ten personal victories
+PASS rift_11 cannot bypass another track by treating its rewards as basic units
+PASS rift_11 starts with independent zero wins
+PASS rift_11 five valid personal unit rewards
+PASS rift_11 rewards locked initially
+PASS rift_11 victory 1 counted once
+PASS rift_11 milestone gating 1
+PASS rift_11 milestone has an effect 1
+PASS rift_11 victory 2 counted once
+PASS rift_11 milestone gating 2
+PASS rift_11 milestone has an effect 2
+PASS rift_11 victory 3 counted once
+PASS rift_11 milestone gating 3
+PASS rift_11 milestone has an effect 3
+PASS rift_11 victory 4 counted once
+PASS rift_11 milestone gating 4
+PASS rift_11 milestone has an effect 4
+PASS rift_11 victory 5 counted once
+PASS rift_11 milestone gating 5
+PASS rift_11 milestone has an effect 5
+PASS rift_11 victory 6 counted once
+PASS rift_11 milestone gating 6
+PASS rift_11 milestone has an effect 6
+PASS rift_11 victory 7 counted once
+PASS rift_11 milestone gating 7
+PASS rift_11 milestone has an effect 7
+PASS rift_11 victory 8 counted once
+PASS rift_11 milestone gating 8
+PASS rift_11 milestone has an effect 8
+PASS rift_11 victory 9 counted once
+PASS rift_11 milestone gating 9
+PASS rift_11 milestone has an effect 9
+PASS rift_11 victory 10 counted once
+PASS rift_11 milestone gating 10
+PASS rift_11 milestone has an effect 10
+PASS rift_11 ten personal victories
+PASS rift_12 cannot bypass another track by treating its rewards as basic units
+PASS rift_12 starts with independent zero wins
+PASS rift_12 five valid personal unit rewards
+PASS rift_12 rewards locked initially
+PASS rift_12 victory 1 counted once
+PASS rift_12 milestone gating 1
+PASS rift_12 milestone has an effect 1
+PASS rift_12 victory 2 counted once
+PASS rift_12 milestone gating 2
+PASS rift_12 milestone has an effect 2
+PASS rift_12 victory 3 counted once
+PASS rift_12 milestone gating 3
+PASS rift_12 milestone has an effect 3
+PASS rift_12 victory 4 counted once
+PASS rift_12 milestone gating 4
+PASS rift_12 milestone has an effect 4
+PASS rift_12 victory 5 counted once
+PASS rift_12 milestone gating 5
+PASS rift_12 milestone has an effect 5
+PASS rift_12 victory 6 counted once
+PASS rift_12 milestone gating 6
+PASS rift_12 milestone has an effect 6
+PASS rift_12 victory 7 counted once
+PASS rift_12 milestone gating 7
+PASS rift_12 milestone has an effect 7
+PASS rift_12 victory 8 counted once
+PASS rift_12 milestone gating 8
+PASS rift_12 milestone has an effect 8
+PASS rift_12 victory 9 counted once
+PASS rift_12 milestone gating 9
+PASS rift_12 milestone has an effect 9
+PASS rift_12 victory 10 counted once
+PASS rift_12 milestone gating 10
+PASS rift_12 milestone has an effect 10
+PASS rift_12 ten personal victories
+PASS verdant_10 cannot bypass another track by treating its rewards as basic units
+PASS verdant_10 starts with independent zero wins
+PASS verdant_10 five valid personal unit rewards
+PASS verdant_10 rewards locked initially
+PASS verdant_10 victory 1 counted once
+PASS verdant_10 milestone gating 1
+PASS verdant_10 milestone has an effect 1
+PASS verdant_10 victory 2 counted once
+PASS verdant_10 milestone gating 2
+PASS verdant_10 milestone has an effect 2
+PASS verdant_10 victory 3 counted once
+PASS verdant_10 milestone gating 3
+PASS verdant_10 milestone has an effect 3
+PASS verdant_10 victory 4 counted once
+PASS verdant_10 milestone gating 4
+PASS verdant_10 milestone has an effect 4
+PASS verdant_10 victory 5 counted once
+PASS verdant_10 milestone gating 5
+PASS verdant_10 milestone has an effect 5
+PASS verdant_10 victory 6 counted once
+PASS verdant_10 milestone gating 6
+PASS verdant_10 milestone has an effect 6
+PASS verdant_10 victory 7 counted once
+PASS verdant_10 milestone gating 7
+PASS verdant_10 milestone has an effect 7
+PASS verdant_10 victory 8 counted once
+PASS verdant_10 milestone gating 8
+PASS verdant_10 milestone has an effect 8
+PASS verdant_10 victory 9 counted once
+PASS verdant_10 milestone gating 9
+PASS verdant_10 milestone has an effect 9
+PASS verdant_10 victory 10 counted once
+PASS verdant_10 milestone gating 10
+PASS verdant_10 milestone has an effect 10
+PASS verdant_10 ten personal victories
+PASS verdant_11 cannot bypass another track by treating its rewards as basic units
+PASS verdant_11 starts with independent zero wins
+PASS verdant_11 five valid personal unit rewards
+PASS verdant_11 rewards locked initially
+PASS verdant_11 victory 1 counted once
+PASS verdant_11 milestone gating 1
+PASS verdant_11 milestone has an effect 1
+PASS verdant_11 victory 2 counted once
+PASS verdant_11 milestone gating 2
+PASS verdant_11 milestone has an effect 2
+PASS verdant_11 victory 3 counted once
+PASS verdant_11 milestone gating 3
+PASS verdant_11 milestone has an effect 3
+PASS verdant_11 victory 4 counted once
+PASS verdant_11 milestone gating 4
+PASS verdant_11 milestone has an effect 4
+PASS verdant_11 victory 5 counted once
+PASS verdant_11 milestone gating 5
+PASS verdant_11 milestone has an effect 5
+PASS verdant_11 victory 6 counted once
+PASS verdant_11 milestone gating 6
+PASS verdant_11 milestone has an effect 6
+PASS verdant_11 victory 7 counted once
+PASS verdant_11 milestone gating 7
+PASS verdant_11 milestone has an effect 7
+PASS verdant_11 victory 8 counted once
+PASS verdant_11 milestone gating 8
+PASS verdant_11 milestone has an effect 8
+PASS verdant_11 victory 9 counted once
+PASS verdant_11 milestone gating 9
+PASS verdant_11 milestone has an effect 9
+PASS verdant_11 victory 10 counted once
+PASS verdant_11 milestone gating 10
+PASS verdant_11 milestone has an effect 10
+PASS verdant_11 ten personal victories
+PASS verdant_12 cannot bypass another track by treating its rewards as basic units
+PASS verdant_12 starts with independent zero wins
+PASS verdant_12 five valid personal unit rewards
+PASS verdant_12 rewards locked initially
+PASS verdant_12 victory 1 counted once
+PASS verdant_12 milestone gating 1
+PASS verdant_12 milestone has an effect 1
+PASS verdant_12 victory 2 counted once
+PASS verdant_12 milestone gating 2
+PASS verdant_12 milestone has an effect 2
+PASS verdant_12 victory 3 counted once
+PASS verdant_12 milestone gating 3
+PASS verdant_12 milestone has an effect 3
+PASS verdant_12 victory 4 counted once
+PASS verdant_12 milestone gating 4
+PASS verdant_12 milestone has an effect 4
+PASS verdant_12 victory 5 counted once
+PASS verdant_12 milestone gating 5
+PASS verdant_12 milestone has an effect 5
+PASS verdant_12 victory 6 counted once
+PASS verdant_12 milestone gating 6
+PASS verdant_12 milestone has an effect 6
+PASS verdant_12 victory 7 counted once
+PASS verdant_12 milestone gating 7
+PASS verdant_12 milestone has an effect 7
+PASS verdant_12 victory 8 counted once
+PASS verdant_12 milestone gating 8
+PASS verdant_12 milestone has an effect 8
+PASS verdant_12 victory 9 counted once
+PASS verdant_12 milestone gating 9
+PASS verdant_12 milestone has an effect 9
+PASS verdant_12 victory 10 counted once
+PASS verdant_12 milestone gating 10
+PASS verdant_12 milestone has an effect 10
+PASS verdant_12 ten personal victories
+PASS saurian_10 cannot bypass another track by treating its rewards as basic units
+PASS saurian_10 starts with independent zero wins
+PASS saurian_10 five valid personal unit rewards
+PASS saurian_10 rewards locked initially
+PASS saurian_10 victory 1 counted once
+PASS saurian_10 milestone gating 1
+PASS saurian_10 milestone has an effect 1
+PASS saurian_10 victory 2 counted once
+PASS saurian_10 milestone gating 2
+PASS saurian_10 milestone has an effect 2
+PASS saurian_10 victory 3 counted once
+PASS saurian_10 milestone gating 3
+PASS saurian_10 milestone has an effect 3
+PASS saurian_10 victory 4 counted once
+PASS saurian_10 milestone gating 4
+PASS saurian_10 milestone has an effect 4
+PASS saurian_10 victory 5 counted once
+PASS saurian_10 milestone gating 5
+PASS saurian_10 milestone has an effect 5
+PASS saurian_10 victory 6 counted once
+PASS saurian_10 milestone gating 6
+PASS saurian_10 milestone has an effect 6
+PASS saurian_10 victory 7 counted once
+PASS saurian_10 milestone gating 7
+PASS saurian_10 milestone has an effect 7
+PASS saurian_10 victory 8 counted once
+PASS saurian_10 milestone gating 8
+PASS saurian_10 milestone has an effect 8
+PASS saurian_10 victory 9 counted once
+PASS saurian_10 milestone gating 9
+PASS saurian_10 milestone has an effect 9
+PASS saurian_10 victory 10 counted once
+PASS saurian_10 milestone gating 10
+PASS saurian_10 milestone has an effect 10
+PASS saurian_10 ten personal victories
+PASS saurian_11 cannot bypass another track by treating its rewards as basic units
+PASS saurian_11 starts with independent zero wins
+PASS saurian_11 five valid personal unit rewards
+PASS saurian_11 rewards locked initially
+PASS saurian_11 victory 1 counted once
+PASS saurian_11 milestone gating 1
+PASS saurian_11 milestone has an effect 1
+PASS saurian_11 victory 2 counted once
+PASS saurian_11 milestone gating 2
+PASS saurian_11 milestone has an effect 2
+PASS saurian_11 victory 3 counted once
+PASS saurian_11 milestone gating 3
+PASS saurian_11 milestone has an effect 3
+PASS saurian_11 victory 4 counted once
+PASS saurian_11 milestone gating 4
+PASS saurian_11 milestone has an effect 4
+PASS saurian_11 victory 5 counted once
+PASS saurian_11 milestone gating 5
+PASS saurian_11 milestone has an effect 5
+PASS saurian_11 victory 6 counted once
+PASS saurian_11 milestone gating 6
+PASS saurian_11 milestone has an effect 6
+PASS saurian_11 victory 7 counted once
+PASS saurian_11 milestone gating 7
+PASS saurian_11 milestone has an effect 7
+PASS saurian_11 victory 8 counted once
+PASS saurian_11 milestone gating 8
+PASS saurian_11 milestone has an effect 8
+PASS saurian_11 victory 9 counted once
+PASS saurian_11 milestone gating 9
+PASS saurian_11 milestone has an effect 9
+PASS saurian_11 victory 10 counted once
+PASS saurian_11 milestone gating 10
+PASS saurian_11 milestone has an effect 10
+PASS saurian_11 ten personal victories
+PASS saurian_12 cannot bypass another track by treating its rewards as basic units
+PASS saurian_12 starts with independent zero wins
+PASS saurian_12 five valid personal unit rewards
+PASS saurian_12 rewards locked initially
+PASS saurian_12 victory 1 counted once
+PASS saurian_12 milestone gating 1
+PASS saurian_12 milestone has an effect 1
+PASS saurian_12 victory 2 counted once
+PASS saurian_12 milestone gating 2
+PASS saurian_12 milestone has an effect 2
+PASS saurian_12 victory 3 counted once
+PASS saurian_12 milestone gating 3
+PASS saurian_12 milestone has an effect 3
+PASS saurian_12 victory 4 counted once
+PASS saurian_12 milestone gating 4
+PASS saurian_12 milestone has an effect 4
+PASS saurian_12 victory 5 counted once
+PASS saurian_12 milestone gating 5
+PASS saurian_12 milestone has an effect 5
+PASS saurian_12 victory 6 counted once
+PASS saurian_12 milestone gating 6
+PASS saurian_12 milestone has an effect 6
+PASS saurian_12 victory 7 counted once
+PASS saurian_12 milestone gating 7
+PASS saurian_12 milestone has an effect 7
+PASS saurian_12 victory 8 counted once
+PASS saurian_12 milestone gating 8
+PASS saurian_12 milestone has an effect 8
+PASS saurian_12 victory 9 counted once
+PASS saurian_12 milestone gating 9
+PASS saurian_12 milestone has an effect 9
+PASS saurian_12 victory 10 counted once
+PASS saurian_12 milestone gating 10
+PASS saurian_12 milestone has an effect 10
+PASS saurian_12 ten personal victories
+PASS dawn_10 cannot bypass another track by treating its rewards as basic units
+PASS dawn_10 starts with independent zero wins
+PASS dawn_10 five valid personal unit rewards
+PASS dawn_10 rewards locked initially
+PASS dawn_10 victory 1 counted once
+PASS dawn_10 milestone gating 1
+PASS dawn_10 milestone has an effect 1
+PASS dawn_10 victory 2 counted once
+PASS dawn_10 milestone gating 2
+PASS dawn_10 milestone has an effect 2
+PASS dawn_10 victory 3 counted once
+PASS dawn_10 milestone gating 3
+PASS dawn_10 milestone has an effect 3
+PASS dawn_10 victory 4 counted once
+PASS dawn_10 milestone gating 4
+PASS dawn_10 milestone has an effect 4
+PASS dawn_10 victory 5 counted once
+PASS dawn_10 milestone gating 5
+PASS dawn_10 milestone has an effect 5
+PASS dawn_10 victory 6 counted once
+PASS dawn_10 milestone gating 6
+PASS dawn_10 milestone has an effect 6
+PASS dawn_10 victory 7 counted once
+PASS dawn_10 milestone gating 7
+PASS dawn_10 milestone has an effect 7
+PASS dawn_10 victory 8 counted once
+PASS dawn_10 milestone gating 8
+PASS dawn_10 milestone has an effect 8
+PASS dawn_10 victory 9 counted once
+PASS dawn_10 milestone gating 9
+PASS dawn_10 milestone has an effect 9
+PASS dawn_10 victory 10 counted once
+PASS dawn_10 milestone gating 10
+PASS dawn_10 milestone has an effect 10
+PASS dawn_10 ten personal victories
+PASS dawn_11 cannot bypass another track by treating its rewards as basic units
+PASS dawn_11 starts with independent zero wins
+PASS dawn_11 five valid personal unit rewards
+PASS dawn_11 rewards locked initially
+PASS dawn_11 victory 1 counted once
+PASS dawn_11 milestone gating 1
+PASS dawn_11 milestone has an effect 1
+PASS dawn_11 victory 2 counted once
+PASS dawn_11 milestone gating 2
+PASS dawn_11 milestone has an effect 2
+PASS dawn_11 victory 3 counted once
+PASS dawn_11 milestone gating 3
+PASS dawn_11 milestone has an effect 3
+PASS dawn_11 victory 4 counted once
+PASS dawn_11 milestone gating 4
+PASS dawn_11 milestone has an effect 4
+PASS dawn_11 victory 5 counted once
+PASS dawn_11 milestone gating 5
+PASS dawn_11 milestone has an effect 5
+PASS dawn_11 victory 6 counted once
+PASS dawn_11 milestone gating 6
+PASS dawn_11 milestone has an effect 6
+PASS dawn_11 victory 7 counted once
+PASS dawn_11 milestone gating 7
+PASS dawn_11 milestone has an effect 7
+PASS dawn_11 victory 8 counted once
+PASS dawn_11 milestone gating 8
+PASS dawn_11 milestone has an effect 8
+PASS dawn_11 victory 9 counted once
+PASS dawn_11 milestone gating 9
+PASS dawn_11 milestone has an effect 9
+PASS dawn_11 victory 10 counted once
+PASS dawn_11 milestone gating 10
+PASS dawn_11 milestone has an effect 10
+PASS dawn_11 ten personal victories
+PASS dawn_12 cannot bypass another track by treating its rewards as basic units
+PASS dawn_12 starts with independent zero wins
+PASS dawn_12 five valid personal unit rewards
+PASS dawn_12 rewards locked initially
+PASS dawn_12 victory 1 counted once
+PASS dawn_12 milestone gating 1
+PASS dawn_12 milestone has an effect 1
+PASS dawn_12 victory 2 counted once
+PASS dawn_12 milestone gating 2
+PASS dawn_12 milestone has an effect 2
+PASS dawn_12 victory 3 counted once
+PASS dawn_12 milestone gating 3
+PASS dawn_12 milestone has an effect 3
+PASS dawn_12 victory 4 counted once
+PASS dawn_12 milestone gating 4
+PASS dawn_12 milestone has an effect 4
+PASS dawn_12 victory 5 counted once
+PASS dawn_12 milestone gating 5
+PASS dawn_12 milestone has an effect 5
+PASS dawn_12 victory 6 counted once
+PASS dawn_12 milestone gating 6
+PASS dawn_12 milestone has an effect 6
+PASS dawn_12 victory 7 counted once
+PASS dawn_12 milestone gating 7
+PASS dawn_12 milestone has an effect 7
+PASS dawn_12 victory 8 counted once
+PASS dawn_12 milestone gating 8
+PASS dawn_12 milestone has an effect 8
+PASS dawn_12 victory 9 counted once
+PASS dawn_12 milestone gating 9
+PASS dawn_12 milestone has an effect 9
+PASS dawn_12 victory 10 counted once
+PASS dawn_12 milestone gating 10
+PASS dawn_12 milestone has an effect 10
+PASS dawn_12 ten personal victories
+PASS hollow_10 cannot bypass another track by treating its rewards as basic units
+PASS hollow_10 starts with independent zero wins
+PASS hollow_10 five valid personal unit rewards
+PASS hollow_10 rewards locked initially
+PASS hollow_10 victory 1 counted once
+PASS hollow_10 milestone gating 1
+PASS hollow_10 milestone has an effect 1
+PASS hollow_10 victory 2 counted once
+PASS hollow_10 milestone gating 2
+PASS hollow_10 milestone has an effect 2
+PASS hollow_10 victory 3 counted once
+PASS hollow_10 milestone gating 3
+PASS hollow_10 milestone has an effect 3
+PASS hollow_10 victory 4 counted once
+PASS hollow_10 milestone gating 4
+PASS hollow_10 milestone has an effect 4
+PASS hollow_10 victory 5 counted once
+PASS hollow_10 milestone gating 5
+PASS hollow_10 milestone has an effect 5
+PASS hollow_10 victory 6 counted once
+PASS hollow_10 milestone gating 6
+PASS hollow_10 milestone has an effect 6
+PASS hollow_10 victory 7 counted once
+PASS hollow_10 milestone gating 7
+PASS hollow_10 milestone has an effect 7
+PASS hollow_10 victory 8 counted once
+PASS hollow_10 milestone gating 8
+PASS hollow_10 milestone has an effect 8
+PASS hollow_10 victory 9 counted once
+PASS hollow_10 milestone gating 9
+PASS hollow_10 milestone has an effect 9
+PASS hollow_10 victory 10 counted once
+PASS hollow_10 milestone gating 10
+PASS hollow_10 milestone has an effect 10
+PASS hollow_10 ten personal victories
+PASS hollow_11 cannot bypass another track by treating its rewards as basic units
+PASS hollow_11 starts with independent zero wins
+PASS hollow_11 five valid personal unit rewards
+PASS hollow_11 rewards locked initially
+PASS hollow_11 victory 1 counted once
+PASS hollow_11 milestone gating 1
+PASS hollow_11 milestone has an effect 1
+PASS hollow_11 victory 2 counted once
+PASS hollow_11 milestone gating 2
+PASS hollow_11 milestone has an effect 2
+PASS hollow_11 victory 3 counted once
+PASS hollow_11 milestone gating 3
+PASS hollow_11 milestone has an effect 3
+PASS hollow_11 victory 4 counted once
+PASS hollow_11 milestone gating 4
+PASS hollow_11 milestone has an effect 4
+PASS hollow_11 victory 5 counted once
+PASS hollow_11 milestone gating 5
+PASS hollow_11 milestone has an effect 5
+PASS hollow_11 victory 6 counted once
+PASS hollow_11 milestone gating 6
+PASS hollow_11 milestone has an effect 6
+PASS hollow_11 victory 7 counted once
+PASS hollow_11 milestone gating 7
+PASS hollow_11 milestone has an effect 7
+PASS hollow_11 victory 8 counted once
+PASS hollow_11 milestone gating 8
+PASS hollow_11 milestone has an effect 8
+PASS hollow_11 victory 9 counted once
+PASS hollow_11 milestone gating 9
+PASS hollow_11 milestone has an effect 9
+PASS hollow_11 victory 10 counted once
+PASS hollow_11 milestone gating 10
+PASS hollow_11 milestone has an effect 10
+PASS hollow_11 ten personal victories
+PASS hollow_12 cannot bypass another track by treating its rewards as basic units
+PASS hollow_12 starts with independent zero wins
+PASS hollow_12 five valid personal unit rewards
+PASS hollow_12 rewards locked initially
+PASS hollow_12 victory 1 counted once
+PASS hollow_12 milestone gating 1
+PASS hollow_12 milestone has an effect 1
+PASS hollow_12 victory 2 counted once
+PASS hollow_12 milestone gating 2
+PASS hollow_12 milestone has an effect 2
+PASS hollow_12 victory 3 counted once
+PASS hollow_12 milestone gating 3
+PASS hollow_12 milestone has an effect 3
+PASS hollow_12 victory 4 counted once
+PASS hollow_12 milestone gating 4
+PASS hollow_12 milestone has an effect 4
+PASS hollow_12 victory 5 counted once
+PASS hollow_12 milestone gating 5
+PASS hollow_12 milestone has an effect 5
+PASS hollow_12 victory 6 counted once
+PASS hollow_12 milestone gating 6
+PASS hollow_12 milestone has an effect 6
+PASS hollow_12 victory 7 counted once
+PASS hollow_12 milestone gating 7
+PASS hollow_12 milestone has an effect 7
+PASS hollow_12 victory 8 counted once
+PASS hollow_12 milestone gating 8
+PASS hollow_12 milestone has an effect 8
+PASS hollow_12 victory 9 counted once
+PASS hollow_12 milestone gating 9
+PASS hollow_12 milestone has an effect 9
+PASS hollow_12 victory 10 counted once
+PASS hollow_12 milestone gating 10
+PASS hollow_12 milestone has an effect 10
+PASS hollow_12 ten personal victories
+PASS argent_general0 cannot bypass another track by treating its rewards as basic units
+PASS argent_general0 starts with independent zero wins
+PASS argent_general0 five valid personal unit rewards
+PASS argent_general0 rewards locked initially
+PASS argent_general0 victory 1 counted once
+PASS argent_general0 milestone gating 1
+PASS argent_general0 milestone has an effect 1
+PASS argent_general0 victory 2 counted once
+PASS argent_general0 milestone gating 2
+PASS argent_general0 milestone has an effect 2
+PASS argent_general0 victory 3 counted once
+PASS argent_general0 milestone gating 3
+PASS argent_general0 milestone has an effect 3
+PASS argent_general0 victory 4 counted once
+PASS argent_general0 milestone gating 4
+PASS argent_general0 milestone has an effect 4
+PASS argent_general0 victory 5 counted once
+PASS argent_general0 milestone gating 5
+PASS argent_general0 milestone has an effect 5
+PASS argent_general0 victory 6 counted once
+PASS argent_general0 milestone gating 6
+PASS argent_general0 milestone has an effect 6
+PASS argent_general0 victory 7 counted once
+PASS argent_general0 milestone gating 7
+PASS argent_general0 milestone has an effect 7
+PASS argent_general0 victory 8 counted once
+PASS argent_general0 milestone gating 8
+PASS argent_general0 milestone has an effect 8
+PASS argent_general0 victory 9 counted once
+PASS argent_general0 milestone gating 9
+PASS argent_general0 milestone has an effect 9
+PASS argent_general0 victory 10 counted once
+PASS argent_general0 milestone gating 10
+PASS argent_general0 milestone has an effect 10
+PASS argent_general0 ten personal victories
+PASS argent_general1 cannot bypass another track by treating its rewards as basic units
+PASS argent_general1 starts with independent zero wins
+PASS argent_general1 five valid personal unit rewards
+PASS argent_general1 rewards locked initially
+PASS argent_general1 victory 1 counted once
+PASS argent_general1 milestone gating 1
+PASS argent_general1 milestone has an effect 1
+PASS argent_general1 victory 2 counted once
+PASS argent_general1 milestone gating 2
+PASS argent_general1 milestone has an effect 2
+PASS argent_general1 victory 3 counted once
+PASS argent_general1 milestone gating 3
+PASS argent_general1 milestone has an effect 3
+PASS argent_general1 victory 4 counted once
+PASS argent_general1 milestone gating 4
+PASS argent_general1 milestone has an effect 4
+PASS argent_general1 victory 5 counted once
+PASS argent_general1 milestone gating 5
+PASS argent_general1 milestone has an effect 5
+PASS argent_general1 victory 6 counted once
+PASS argent_general1 milestone gating 6
+PASS argent_general1 milestone has an effect 6
+PASS argent_general1 victory 7 counted once
+PASS argent_general1 milestone gating 7
+PASS argent_general1 milestone has an effect 7
+PASS argent_general1 victory 8 counted once
+PASS argent_general1 milestone gating 8
+PASS argent_general1 milestone has an effect 8
+PASS argent_general1 victory 9 counted once
+PASS argent_general1 milestone gating 9
+PASS argent_general1 milestone has an effect 9
+PASS argent_general1 victory 10 counted once
+PASS argent_general1 milestone gating 10
+PASS argent_general1 milestone has an effect 10
+PASS argent_general1 ten personal victories
+PASS argent_general2 cannot bypass another track by treating its rewards as basic units
+PASS argent_general2 starts with independent zero wins
+PASS argent_general2 five valid personal unit rewards
+PASS argent_general2 rewards locked initially
+PASS argent_general2 victory 1 counted once
+PASS argent_general2 milestone gating 1
+PASS argent_general2 milestone has an effect 1
+PASS argent_general2 victory 2 counted once
+PASS argent_general2 milestone gating 2
+PASS argent_general2 milestone has an effect 2
+PASS argent_general2 victory 3 counted once
+PASS argent_general2 milestone gating 3
+PASS argent_general2 milestone has an effect 3
+PASS argent_general2 victory 4 counted once
+PASS argent_general2 milestone gating 4
+PASS argent_general2 milestone has an effect 4
+PASS argent_general2 victory 5 counted once
+PASS argent_general2 milestone gating 5
+PASS argent_general2 milestone has an effect 5
+PASS argent_general2 victory 6 counted once
+PASS argent_general2 milestone gating 6
+PASS argent_general2 milestone has an effect 6
+PASS argent_general2 victory 7 counted once
+PASS argent_general2 milestone gating 7
+PASS argent_general2 milestone has an effect 7
+PASS argent_general2 victory 8 counted once
+PASS argent_general2 milestone gating 8
+PASS argent_general2 milestone has an effect 8
+PASS argent_general2 victory 9 counted once
+PASS argent_general2 milestone gating 9
+PASS argent_general2 milestone has an effect 9
+PASS argent_general2 victory 10 counted once
+PASS argent_general2 milestone gating 10
+PASS argent_general2 milestone has an effect 10
+PASS argent_general2 ten personal victories
+PASS oathscar_general0 cannot bypass another track by treating its rewards as basic units
+PASS oathscar_general0 starts with independent zero wins
+PASS oathscar_general0 five valid personal unit rewards
+PASS oathscar_general0 rewards locked initially
+PASS oathscar_general0 victory 1 counted once
+PASS oathscar_general0 milestone gating 1
+PASS oathscar_general0 milestone has an effect 1
+PASS oathscar_general0 victory 2 counted once
+PASS oathscar_general0 milestone gating 2
+PASS oathscar_general0 milestone has an effect 2
+PASS oathscar_general0 victory 3 counted once
+PASS oathscar_general0 milestone gating 3
+PASS oathscar_general0 milestone has an effect 3
+PASS oathscar_general0 victory 4 counted once
+PASS oathscar_general0 milestone gating 4
+PASS oathscar_general0 milestone has an effect 4
+PASS oathscar_general0 victory 5 counted once
+PASS oathscar_general0 milestone gating 5
+PASS oathscar_general0 milestone has an effect 5
+PASS oathscar_general0 victory 6 counted once
+PASS oathscar_general0 milestone gating 6
+PASS oathscar_general0 milestone has an effect 6
+PASS oathscar_general0 victory 7 counted once
+PASS oathscar_general0 milestone gating 7
+PASS oathscar_general0 milestone has an effect 7
+PASS oathscar_general0 victory 8 counted once
+PASS oathscar_general0 milestone gating 8
+PASS oathscar_general0 milestone has an effect 8
+PASS oathscar_general0 victory 9 counted once
+PASS oathscar_general0 milestone gating 9
+PASS oathscar_general0 milestone has an effect 9
+PASS oathscar_general0 victory 10 counted once
+PASS oathscar_general0 milestone gating 10
+PASS oathscar_general0 milestone has an effect 10
+PASS oathscar_general0 ten personal victories
+PASS oathscar_general1 cannot bypass another track by treating its rewards as basic units
+PASS oathscar_general1 starts with independent zero wins
+PASS oathscar_general1 five valid personal unit rewards
+PASS oathscar_general1 rewards locked initially
+PASS oathscar_general1 victory 1 counted once
+PASS oathscar_general1 milestone gating 1
+PASS oathscar_general1 milestone has an effect 1
+PASS oathscar_general1 victory 2 counted once
+PASS oathscar_general1 milestone gating 2
+PASS oathscar_general1 milestone has an effect 2
+PASS oathscar_general1 victory 3 counted once
+PASS oathscar_general1 milestone gating 3
+PASS oathscar_general1 milestone has an effect 3
+PASS oathscar_general1 victory 4 counted once
+PASS oathscar_general1 milestone gating 4
+PASS oathscar_general1 milestone has an effect 4
+PASS oathscar_general1 victory 5 counted once
+PASS oathscar_general1 milestone gating 5
+PASS oathscar_general1 milestone has an effect 5
+PASS oathscar_general1 victory 6 counted once
+PASS oathscar_general1 milestone gating 6
+PASS oathscar_general1 milestone has an effect 6
+PASS oathscar_general1 victory 7 counted once
+PASS oathscar_general1 milestone gating 7
+PASS oathscar_general1 milestone has an effect 7
+PASS oathscar_general1 victory 8 counted once
+PASS oathscar_general1 milestone gating 8
+PASS oathscar_general1 milestone has an effect 8
+PASS oathscar_general1 victory 9 counted once
+PASS oathscar_general1 milestone gating 9
+PASS oathscar_general1 milestone has an effect 9
+PASS oathscar_general1 victory 10 counted once
+PASS oathscar_general1 milestone gating 10
+PASS oathscar_general1 milestone has an effect 10
+PASS oathscar_general1 ten personal victories
+PASS oathscar_general2 cannot bypass another track by treating its rewards as basic units
+PASS oathscar_general2 starts with independent zero wins
+PASS oathscar_general2 five valid personal unit rewards
+PASS oathscar_general2 rewards locked initially
+PASS oathscar_general2 victory 1 counted once
+PASS oathscar_general2 milestone gating 1
+PASS oathscar_general2 milestone has an effect 1
+PASS oathscar_general2 victory 2 counted once
+PASS oathscar_general2 milestone gating 2
+PASS oathscar_general2 milestone has an effect 2
+PASS oathscar_general2 victory 3 counted once
+PASS oathscar_general2 milestone gating 3
+PASS oathscar_general2 milestone has an effect 3
+PASS oathscar_general2 victory 4 counted once
+PASS oathscar_general2 milestone gating 4
+PASS oathscar_general2 milestone has an effect 4
+PASS oathscar_general2 victory 5 counted once
+PASS oathscar_general2 milestone gating 5
+PASS oathscar_general2 milestone has an effect 5
+PASS oathscar_general2 victory 6 counted once
+PASS oathscar_general2 milestone gating 6
+PASS oathscar_general2 milestone has an effect 6
+PASS oathscar_general2 victory 7 counted once
+PASS oathscar_general2 milestone gating 7
+PASS oathscar_general2 milestone has an effect 7
+PASS oathscar_general2 victory 8 counted once
+PASS oathscar_general2 milestone gating 8
+PASS oathscar_general2 milestone has an effect 8
+PASS oathscar_general2 victory 9 counted once
+PASS oathscar_general2 milestone gating 9
+PASS oathscar_general2 milestone has an effect 9
+PASS oathscar_general2 victory 10 counted once
+PASS oathscar_general2 milestone gating 10
+PASS oathscar_general2 milestone has an effect 10
+PASS oathscar_general2 ten personal victories
+PASS pelagic_general0 cannot bypass another track by treating its rewards as basic units
+PASS pelagic_general0 starts with independent zero wins
+PASS pelagic_general0 five valid personal unit rewards
+PASS pelagic_general0 rewards locked initially
+PASS pelagic_general0 victory 1 counted once
+PASS pelagic_general0 milestone gating 1
+PASS pelagic_general0 milestone has an effect 1
+PASS pelagic_general0 victory 2 counted once
+PASS pelagic_general0 milestone gating 2
+PASS pelagic_general0 milestone has an effect 2
+PASS pelagic_general0 victory 3 counted once
+PASS pelagic_general0 milestone gating 3
+PASS pelagic_general0 milestone has an effect 3
+PASS pelagic_general0 victory 4 counted once
+PASS pelagic_general0 milestone gating 4
+PASS pelagic_general0 milestone has an effect 4
+PASS pelagic_general0 victory 5 counted once
+PASS pelagic_general0 milestone gating 5
+PASS pelagic_general0 milestone has an effect 5
+PASS pelagic_general0 victory 6 counted once
+PASS pelagic_general0 milestone gating 6
+PASS pelagic_general0 milestone has an effect 6
+PASS pelagic_general0 victory 7 counted once
+PASS pelagic_general0 milestone gating 7
+PASS pelagic_general0 milestone has an effect 7
+PASS pelagic_general0 victory 8 counted once
+PASS pelagic_general0 milestone gating 8
+PASS pelagic_general0 milestone has an effect 8
+PASS pelagic_general0 victory 9 counted once
+PASS pelagic_general0 milestone gating 9
+PASS pelagic_general0 milestone has an effect 9
+PASS pelagic_general0 victory 10 counted once
+PASS pelagic_general0 milestone gating 10
+PASS pelagic_general0 milestone has an effect 10
+PASS pelagic_general0 ten personal victories
+PASS pelagic_general1 cannot bypass another track by treating its rewards as basic units
+PASS pelagic_general1 starts with independent zero wins
+PASS pelagic_general1 five valid personal unit rewards
+PASS pelagic_general1 rewards locked initially
+PASS pelagic_general1 victory 1 counted once
+PASS pelagic_general1 milestone gating 1
+PASS pelagic_general1 milestone has an effect 1
+PASS pelagic_general1 victory 2 counted once
+PASS pelagic_general1 milestone gating 2
+PASS pelagic_general1 milestone has an effect 2
+PASS pelagic_general1 victory 3 counted once
+PASS pelagic_general1 milestone gating 3
+PASS pelagic_general1 milestone has an effect 3
+PASS pelagic_general1 victory 4 counted once
+PASS pelagic_general1 milestone gating 4
+PASS pelagic_general1 milestone has an effect 4
+PASS pelagic_general1 victory 5 counted once
+PASS pelagic_general1 milestone gating 5
+PASS pelagic_general1 milestone has an effect 5
+PASS pelagic_general1 victory 6 counted once
+PASS pelagic_general1 milestone gating 6
+PASS pelagic_general1 milestone has an effect 6
+PASS pelagic_general1 victory 7 counted once
+PASS pelagic_general1 milestone gating 7
+PASS pelagic_general1 milestone has an effect 7
+PASS pelagic_general1 victory 8 counted once
+PASS pelagic_general1 milestone gating 8
+PASS pelagic_general1 milestone has an effect 8
+PASS pelagic_general1 victory 9 counted once
+PASS pelagic_general1 milestone gating 9
+PASS pelagic_general1 milestone has an effect 9
+PASS pelagic_general1 victory 10 counted once
+PASS pelagic_general1 milestone gating 10
+PASS pelagic_general1 milestone has an effect 10
+PASS pelagic_general1 ten personal victories
+PASS pelagic_general2 cannot bypass another track by treating its rewards as basic units
+PASS pelagic_general2 starts with independent zero wins
+PASS pelagic_general2 five valid personal unit rewards
+PASS pelagic_general2 rewards locked initially
+PASS pelagic_general2 victory 1 counted once
+PASS pelagic_general2 milestone gating 1
+PASS pelagic_general2 milestone has an effect 1
+PASS pelagic_general2 victory 2 counted once
+PASS pelagic_general2 milestone gating 2
+PASS pelagic_general2 milestone has an effect 2
+PASS pelagic_general2 victory 3 counted once
+PASS pelagic_general2 milestone gating 3
+PASS pelagic_general2 milestone has an effect 3
+PASS pelagic_general2 victory 4 counted once
+PASS pelagic_general2 milestone gating 4
+PASS pelagic_general2 milestone has an effect 4
+PASS pelagic_general2 victory 5 counted once
+PASS pelagic_general2 milestone gating 5
+PASS pelagic_general2 milestone has an effect 5
+PASS pelagic_general2 victory 6 counted once
+PASS pelagic_general2 milestone gating 6
+PASS pelagic_general2 milestone has an effect 6
+PASS pelagic_general2 victory 7 counted once
+PASS pelagic_general2 milestone gating 7
+PASS pelagic_general2 milestone has an effect 7
+PASS pelagic_general2 victory 8 counted once
+PASS pelagic_general2 milestone gating 8
+PASS pelagic_general2 milestone has an effect 8
+PASS pelagic_general2 victory 9 counted once
+PASS pelagic_general2 milestone gating 9
+PASS pelagic_general2 milestone has an effect 9
+PASS pelagic_general2 victory 10 counted once
+PASS pelagic_general2 milestone gating 10
+PASS pelagic_general2 milestone has an effect 10
+PASS pelagic_general2 ten personal victories
+PASS kiln_general0 cannot bypass another track by treating its rewards as basic units
+PASS kiln_general0 starts with independent zero wins
+PASS kiln_general0 five valid personal unit rewards
+PASS kiln_general0 rewards locked initially
+PASS kiln_general0 victory 1 counted once
+PASS kiln_general0 milestone gating 1
+PASS kiln_general0 milestone has an effect 1
+PASS kiln_general0 victory 2 counted once
+PASS kiln_general0 milestone gating 2
+PASS kiln_general0 milestone has an effect 2
+PASS kiln_general0 victory 3 counted once
+PASS kiln_general0 milestone gating 3
+PASS kiln_general0 milestone has an effect 3
+PASS kiln_general0 victory 4 counted once
+PASS kiln_general0 milestone gating 4
+PASS kiln_general0 milestone has an effect 4
+PASS kiln_general0 victory 5 counted once
+PASS kiln_general0 milestone gating 5
+PASS kiln_general0 milestone has an effect 5
+PASS kiln_general0 victory 6 counted once
+PASS kiln_general0 milestone gating 6
+PASS kiln_general0 milestone has an effect 6
+PASS kiln_general0 victory 7 counted once
+PASS kiln_general0 milestone gating 7
+PASS kiln_general0 milestone has an effect 7
+PASS kiln_general0 victory 8 counted once
+PASS kiln_general0 milestone gating 8
+PASS kiln_general0 milestone has an effect 8
+PASS kiln_general0 victory 9 counted once
+PASS kiln_general0 milestone gating 9
+PASS kiln_general0 milestone has an effect 9
+PASS kiln_general0 victory 10 counted once
+PASS kiln_general0 milestone gating 10
+PASS kiln_general0 milestone has an effect 10
+PASS kiln_general0 ten personal victories
+PASS kiln_general1 cannot bypass another track by treating its rewards as basic units
+PASS kiln_general1 starts with independent zero wins
+PASS kiln_general1 five valid personal unit rewards
+PASS kiln_general1 rewards locked initially
+PASS kiln_general1 victory 1 counted once
+PASS kiln_general1 milestone gating 1
+PASS kiln_general1 milestone has an effect 1
+PASS kiln_general1 victory 2 counted once
+PASS kiln_general1 milestone gating 2
+PASS kiln_general1 milestone has an effect 2
+PASS kiln_general1 victory 3 counted once
+PASS kiln_general1 milestone gating 3
+PASS kiln_general1 milestone has an effect 3
+PASS kiln_general1 victory 4 counted once
+PASS kiln_general1 milestone gating 4
+PASS kiln_general1 milestone has an effect 4
+PASS kiln_general1 victory 5 counted once
+PASS kiln_general1 milestone gating 5
+PASS kiln_general1 milestone has an effect 5
+PASS kiln_general1 victory 6 counted once
+PASS kiln_general1 milestone gating 6
+PASS kiln_general1 milestone has an effect 6
+PASS kiln_general1 victory 7 counted once
+PASS kiln_general1 milestone gating 7
+PASS kiln_general1 milestone has an effect 7
+PASS kiln_general1 victory 8 counted once
+PASS kiln_general1 milestone gating 8
+PASS kiln_general1 milestone has an effect 8
+PASS kiln_general1 victory 9 counted once
+PASS kiln_general1 milestone gating 9
+PASS kiln_general1 milestone has an effect 9
+PASS kiln_general1 victory 10 counted once
+PASS kiln_general1 milestone gating 10
+PASS kiln_general1 milestone has an effect 10
+PASS kiln_general1 ten personal victories
+PASS kiln_general2 cannot bypass another track by treating its rewards as basic units
+PASS kiln_general2 starts with independent zero wins
+PASS kiln_general2 five valid personal unit rewards
+PASS kiln_general2 rewards locked initially
+PASS kiln_general2 victory 1 counted once
+PASS kiln_general2 milestone gating 1
+PASS kiln_general2 milestone has an effect 1
+PASS kiln_general2 victory 2 counted once
+PASS kiln_general2 milestone gating 2
+PASS kiln_general2 milestone has an effect 2
+PASS kiln_general2 victory 3 counted once
+PASS kiln_general2 milestone gating 3
+PASS kiln_general2 milestone has an effect 3
+PASS kiln_general2 victory 4 counted once
+PASS kiln_general2 milestone gating 4
+PASS kiln_general2 milestone has an effect 4
+PASS kiln_general2 victory 5 counted once
+PASS kiln_general2 milestone gating 5
+PASS kiln_general2 milestone has an effect 5
+PASS kiln_general2 victory 6 counted once
+PASS kiln_general2 milestone gating 6
+PASS kiln_general2 milestone has an effect 6
+PASS kiln_general2 victory 7 counted once
+PASS kiln_general2 milestone gating 7
+PASS kiln_general2 milestone has an effect 7
+PASS kiln_general2 victory 8 counted once
+PASS kiln_general2 milestone gating 8
+PASS kiln_general2 milestone has an effect 8
+PASS kiln_general2 victory 9 counted once
+PASS kiln_general2 milestone gating 9
+PASS kiln_general2 milestone has an effect 9
+PASS kiln_general2 victory 10 counted once
+PASS kiln_general2 milestone gating 10
+PASS kiln_general2 milestone has an effect 10
+PASS kiln_general2 ten personal victories
+PASS discovered commander starts with no inherited wins
+PASS gore_maiden belongs only to its earning commander
+PASS vermin_titan belongs only to its earning commander
+PASS owner gets starting supply benefit
+PASS discovered commander can lead a separate army
+PASS second Conquest army cannot use first commander's reward
+PASS new commander does not inherit training charter
+PASS earning commander's army retains recruitment and training rewards
+PASS alternate commander gets no supply or titan bypass
+PASS owner's new Trail gets supply warrant
+PASS personal surgeons improve recovery
+PASS personal veteran command grants one additional victory XP
+PASS legacy ownership migration retains counts and deduplication
+PASS migration reports primary-commander assignment without global access
+PASS valid primary is preferred
+PASS damaged primary restores prior backup
+PASS recovery preserves damaged primary and good backup
+PASS missing primary recovers from backup
+PASS future save is rejected without silently reverting or overwriting
+PASS two invalid saves fail safely
+PASS commander ownership persists across save/load
+PASS progress backup recovery is reported
+PASS writing recovered progress preserves valid backup
+PASS active tactical battle survives storage validation

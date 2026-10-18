@@ -1,0 +1,498 @@
+497 profile, AI and action-economy checks passed.
+PASS marshal legal profile
+PASS clawrat legal profile
+PASS stormvermin legal profile
+PASS blackclaw legal profile
+PASS confessor legal profile
+PASS seer legal profile
+PASS sapper legal profile
+PASS gasclaw legal profile
+PASS mortar legal profile
+PASS plague legal profile
+PASS tank legal profile
+PASS ogre legal profile
+PASS seraphyx legal profile
+PASS captain legal profile
+PASS rifles legal profile
+PASS lancers legal profile
+PASS cantor legal profile
+PASS rail legal profile
+PASS howitzer legal profile
+PASS warden legal profile
+PASS artificer legal profile
+PASS cinder_0 legal profile
+PASS cinder_1 legal profile
+PASS cinder_2 legal profile
+PASS cinder_3 legal profile
+PASS cinder_4 legal profile
+PASS cinder_5 legal profile
+PASS cinder_6 legal profile
+PASS cinder_7 legal profile
+PASS cinder_8 legal profile
+PASS cinder_9 legal profile
+PASS cinder_10 legal profile
+PASS cinder_11 legal profile
+PASS cinder_12 legal profile
+PASS vault_0 legal profile
+PASS vault_1 legal profile
+PASS vault_2 legal profile
+PASS vault_3 legal profile
+PASS vault_4 legal profile
+PASS vault_5 legal profile
+PASS vault_6 legal profile
+PASS vault_7 legal profile
+PASS vault_8 legal profile
+PASS vault_9 legal profile
+PASS vault_10 legal profile
+PASS vault_11 legal profile
+PASS vault_12 legal profile
+PASS lumen_0 legal profile
+PASS lumen_1 legal profile
+PASS lumen_2 legal profile
+PASS lumen_3 legal profile
+PASS lumen_4 legal profile
+PASS lumen_5 legal profile
+PASS lumen_6 legal profile
+PASS lumen_7 legal profile
+PASS lumen_8 legal profile
+PASS lumen_9 legal profile
+PASS lumen_10 legal profile
+PASS lumen_11 legal profile
+PASS lumen_12 legal profile
+PASS vesper_0 legal profile
+PASS vesper_1 legal profile
+PASS vesper_2 legal profile
+PASS vesper_3 legal profile
+PASS vesper_4 legal profile
+PASS vesper_5 legal profile
+PASS vesper_6 legal profile
+PASS vesper_7 legal profile
+PASS vesper_8 legal profile
+PASS vesper_9 legal profile
+PASS vesper_10 legal profile
+PASS vesper_11 legal profile
+PASS vesper_12 legal profile
+PASS sepulchre_0 legal profile
+PASS sepulchre_1 legal profile
+PASS sepulchre_2 legal profile
+PASS sepulchre_3 legal profile
+PASS sepulchre_4 legal profile
+PASS sepulchre_5 legal profile
+PASS sepulchre_6 legal profile
+PASS sepulchre_7 legal profile
+PASS sepulchre_8 legal profile
+PASS sepulchre_9 legal profile
+PASS sepulchre_10 legal profile
+PASS sepulchre_11 legal profile
+PASS sepulchre_12 legal profile
+PASS horn_0 legal profile
+PASS horn_1 legal profile
+PASS horn_2 legal profile
+PASS horn_3 legal profile
+PASS horn_4 legal profile
+PASS horn_5 legal profile
+PASS horn_6 legal profile
+PASS horn_7 legal profile
+PASS horn_8 legal profile
+PASS horn_9 legal profile
+PASS horn_10 legal profile
+PASS horn_11 legal profile
+PASS horn_12 legal profile
+PASS rift_0 legal profile
+PASS rift_1 legal profile
+PASS rift_2 legal profile
+PASS rift_3 legal profile
+PASS rift_4 legal profile
+PASS rift_5 legal profile
+PASS rift_6 legal profile
+PASS rift_7 legal profile
+PASS rift_8 legal profile
+PASS rift_9 legal profile
+PASS rift_10 legal profile
+PASS rift_11 legal profile
+PASS rift_12 legal profile
+PASS verdant_0 legal profile
+PASS verdant_1 legal profile
+PASS verdant_2 legal profile
+PASS verdant_3 legal profile
+PASS verdant_4 legal profile
+PASS verdant_5 legal profile
+PASS verdant_6 legal profile
+PASS verdant_7 legal profile
+PASS verdant_8 legal profile
+PASS verdant_9 legal profile
+PASS verdant_10 legal profile
+PASS verdant_11 legal profile
+PASS verdant_12 legal profile
+PASS saurian_0 legal profile
+PASS saurian_1 legal profile
+PASS saurian_2 legal profile
+PASS saurian_3 legal profile
+PASS saurian_4 legal profile
+PASS saurian_5 legal profile
+PASS saurian_6 legal profile
+PASS saurian_7 legal profile
+PASS saurian_8 legal profile
+PASS saurian_9 legal profile
+PASS saurian_10 legal profile
+PASS saurian_11 legal profile
+PASS saurian_12 legal profile
+PASS dawn_0 legal profile
+PASS dawn_1 legal profile
+PASS dawn_2 legal profile
+PASS dawn_3 legal profile
+PASS dawn_4 legal profile
+PASS dawn_5 legal profile
+PASS dawn_6 legal profile
+PASS dawn_7 legal profile
+PASS dawn_8 legal profile
+PASS dawn_9 legal profile
+PASS dawn_10 legal profile
+PASS dawn_11 legal profile
+PASS dawn_12 legal profile
+PASS hollow_0 legal profile
+PASS hollow_1 legal profile
+PASS hollow_2 legal profile
+PASS hollow_3 legal profile
+PASS hollow_4 legal profile
+PASS hollow_5 legal profile
+PASS hollow_6 legal profile
+PASS hollow_7 legal profile
+PASS hollow_8 legal profile
+PASS hollow_9 legal profile
+PASS hollow_10 legal profile
+PASS hollow_11 legal profile
+PASS hollow_12 legal profile
+PASS compact_0 legal profile
+PASS compact_1 legal profile
+PASS compact_2 legal profile
+PASS compact_3 legal profile
+PASS compact_4 legal profile
+PASS argent_0 legal profile
+PASS argent_1 legal profile
+PASS argent_2 legal profile
+PASS argent_3 legal profile
+PASS argent_4 legal profile
+PASS argent_5 legal profile
+PASS argent_6 legal profile
+PASS argent_7 legal profile
+PASS argent_8 legal profile
+PASS argent_9 legal profile
+PASS argent_10 legal profile
+PASS argent_general0 legal profile
+PASS argent_general1 legal profile
+PASS argent_general2 legal profile
+PASS oathscar_0 legal profile
+PASS oathscar_1 legal profile
+PASS oathscar_2 legal profile
+PASS oathscar_3 legal profile
+PASS oathscar_4 legal profile
+PASS oathscar_5 legal profile
+PASS oathscar_6 legal profile
+PASS oathscar_7 legal profile
+PASS oathscar_8 legal profile
+PASS oathscar_9 legal profile
+PASS oathscar_10 legal profile
+PASS oathscar_general0 legal profile
+PASS oathscar_general1 legal profile
+PASS oathscar_general2 legal profile
+PASS pelagic_0 legal profile
+PASS pelagic_1 legal profile
+PASS pelagic_2 legal profile
+PASS pelagic_3 legal profile
+PASS pelagic_4 legal profile
+PASS pelagic_5 legal profile
+PASS pelagic_6 legal profile
+PASS pelagic_7 legal profile
+PASS pelagic_8 legal profile
+PASS pelagic_9 legal profile
+PASS pelagic_10 legal profile
+PASS pelagic_general0 legal profile
+PASS pelagic_general1 legal profile
+PASS pelagic_general2 legal profile
+PASS kiln_0 legal profile
+PASS kiln_1 legal profile
+PASS kiln_2 legal profile
+PASS kiln_3 legal profile
+PASS kiln_4 legal profile
+PASS kiln_5 legal profile
+PASS kiln_6 legal profile
+PASS kiln_7 legal profile
+PASS kiln_8 legal profile
+PASS kiln_9 legal profile
+PASS kiln_10 legal profile
+PASS kiln_general0 legal profile
+PASS kiln_general1 legal profile
+PASS kiln_general2 legal profile
+PASS vermin_titan legal profile
+PASS compact_titan legal profile
+PASS cinder_titan legal profile
+PASS vault_titan legal profile
+PASS lumen_titan legal profile
+PASS vesper_titan legal profile
+PASS sepulchre_titan legal profile
+PASS horn_titan legal profile
+PASS rift_titan legal profile
+PASS verdant_titan legal profile
+PASS saurian_titan legal profile
+PASS dawn_titan legal profile
+PASS hollow_titan legal profile
+PASS argent_titan legal profile
+PASS oathscar_titan legal profile
+PASS pelagic_titan legal profile
+PASS kiln_titan legal profile
+PASS gore_maiden legal profile
+PASS no actions during deployment
+PASS rally trades AP for suppression and Pressure
+PASS rally can consume remaining AP without refund
+PASS no AP cannot rally
+PASS unnecessary rally does not spend AP
+PASS cannot rally outside own turn
+PASS marshal native rules summary
+PASS clawrat native rules summary
+PASS stormvermin native rules summary
+PASS blackclaw native rules summary
+PASS confessor native rules summary
+PASS seer native rules summary
+PASS sapper native rules summary
+PASS gasclaw native rules summary
+PASS mortar native rules summary
+PASS plague native rules summary
+PASS tank native rules summary
+PASS ogre native rules summary
+PASS seraphyx native rules summary
+PASS captain native rules summary
+PASS rifles native rules summary
+PASS lancers native rules summary
+PASS cantor native rules summary
+PASS rail native rules summary
+PASS howitzer native rules summary
+PASS warden native rules summary
+PASS artificer native rules summary
+PASS cinder_0 native rules summary
+PASS cinder_1 native rules summary
+PASS cinder_2 native rules summary
+PASS cinder_3 native rules summary
+PASS cinder_4 native rules summary
+PASS cinder_5 native rules summary
+PASS cinder_6 native rules summary
+PASS cinder_7 native rules summary
+PASS cinder_8 native rules summary
+PASS cinder_9 native rules summary
+PASS cinder_10 native rules summary
+PASS cinder_11 native rules summary
+PASS cinder_12 native rules summary
+PASS vault_0 native rules summary
+PASS vault_1 native rules summary
+PASS vault_2 native rules summary
+PASS vault_3 native rules summary
+PASS vault_4 native rules summary
+PASS vault_5 native rules summary
+PASS vault_6 native rules summary
+PASS vault_7 native rules summary
+PASS vault_8 native rules summary
+PASS vault_9 native rules summary
+PASS vault_10 native rules summary
+PASS vault_11 native rules summary
+PASS vault_12 native rules summary
+PASS lumen_0 native rules summary
+PASS lumen_1 native rules summary
+PASS lumen_2 native rules summary
+PASS lumen_3 native rules summary
+PASS lumen_4 native rules summary
+PASS lumen_5 native rules summary
+PASS lumen_6 native rules summary
+PASS lumen_7 native rules summary
+PASS lumen_8 native rules summary
+PASS lumen_9 native rules summary
+PASS lumen_10 native rules summary
+PASS lumen_11 native rules summary
+PASS lumen_12 native rules summary
+PASS vesper_0 native rules summary
+PASS vesper_1 native rules summary
+PASS vesper_2 native rules summary
+PASS vesper_3 native rules summary
+PASS vesper_4 native rules summary
+PASS vesper_5 native rules summary
+PASS vesper_6 native rules summary
+PASS vesper_7 native rules summary
+PASS vesper_8 native rules summary
+PASS vesper_9 native rules summary
+PASS vesper_10 native rules summary
+PASS vesper_11 native rules summary
+PASS vesper_12 native rules summary
+PASS sepulchre_0 native rules summary
+PASS sepulchre_1 native rules summary
+PASS sepulchre_2 native rules summary
+PASS sepulchre_3 native rules summary
+PASS sepulchre_4 native rules summary
+PASS sepulchre_5 native rules summary
+PASS sepulchre_6 native rules summary
+PASS sepulchre_7 native rules summary
+PASS sepulchre_8 native rules summary
+PASS sepulchre_9 native rules summary
+PASS sepulchre_10 native rules summary
+PASS sepulchre_11 native rules summary
+PASS sepulchre_12 native rules summary
+PASS horn_0 native rules summary
+PASS horn_1 native rules summary
+PASS horn_2 native rules summary
+PASS horn_3 native rules summary
+PASS horn_4 native rules summary
+PASS horn_5 native rules summary
+PASS horn_6 native rules summary
+PASS horn_7 native rules summary
+PASS horn_8 native rules summary
+PASS horn_9 native rules summary
+PASS horn_10 native rules summary
+PASS horn_11 native rules summary
+PASS horn_12 native rules summary
+PASS rift_0 native rules summary
+PASS rift_1 native rules summary
+PASS rift_2 native rules summary
+PASS rift_3 native rules summary
+PASS rift_4 native rules summary
+PASS rift_5 native rules summary
+PASS rift_6 native rules summary
+PASS rift_7 native rules summary
+PASS rift_8 native rules summary
+PASS rift_9 native rules summary
+PASS rift_10 native rules summary
+PASS rift_11 native rules summary
+PASS rift_12 native rules summary
+PASS verdant_0 native rules summary
+PASS verdant_1 native rules summary
+PASS verdant_2 native rules summary
+PASS verdant_3 native rules summary
+PASS verdant_4 native rules summary
+PASS verdant_5 native rules summary
+PASS verdant_6 native rules summary
+PASS verdant_7 native rules summary
+PASS verdant_8 native rules summary
+PASS verdant_9 native rules summary
+PASS verdant_10 native rules summary
+PASS verdant_11 native rules summary
+PASS verdant_12 native rules summary
+PASS saurian_0 native rules summary
+PASS saurian_1 native rules summary
+PASS saurian_2 native rules summary
+PASS saurian_3 native rules summary
+PASS saurian_4 native rules summary
+PASS saurian_5 native rules summary
+PASS saurian_6 native rules summary
+PASS saurian_7 native rules summary
+PASS saurian_8 native rules summary
+PASS saurian_9 native rules summary
+PASS saurian_10 native rules summary
+PASS saurian_11 native rules summary
+PASS saurian_12 native rules summary
+PASS dawn_0 native rules summary
+PASS dawn_1 native rules summary
+PASS dawn_2 native rules summary
+PASS dawn_3 native rules summary
+PASS dawn_4 native rules summary
+PASS dawn_5 native rules summary
+PASS dawn_6 native rules summary
+PASS dawn_7 native rules summary
+PASS dawn_8 native rules summary
+PASS dawn_9 native rules summary
+PASS dawn_10 native rules summary
+PASS dawn_11 native rules summary
+PASS dawn_12 native rules summary
+PASS hollow_0 native rules summary
+PASS hollow_1 native rules summary
+PASS hollow_2 native rules summary
+PASS hollow_3 native rules summary
+PASS hollow_4 native rules summary
+PASS hollow_5 native rules summary
+PASS hollow_6 native rules summary
+PASS hollow_7 native rules summary
+PASS hollow_8 native rules summary
+PASS hollow_9 native rules summary
+PASS hollow_10 native rules summary
+PASS hollow_11 native rules summary
+PASS hollow_12 native rules summary
+PASS compact_0 native rules summary
+PASS compact_1 native rules summary
+PASS compact_2 native rules summary
+PASS compact_3 native rules summary
+PASS compact_4 native rules summary
+PASS argent_0 native rules summary
+PASS argent_1 native rules summary
+PASS argent_2 native rules summary
+PASS argent_3 native rules summary
+PASS argent_4 native rules summary
+PASS argent_5 native rules summary
+PASS argent_6 native rules summary
+PASS argent_7 native rules summary
+PASS argent_8 native rules summary
+PASS argent_9 native rules summary
+PASS argent_10 native rules summary
+PASS argent_general0 native rules summary
+PASS argent_general1 native rules summary
+PASS argent_general2 native rules summary
+PASS oathscar_0 native rules summary
+PASS oathscar_1 native rules summary
+PASS oathscar_2 native rules summary
+PASS oathscar_3 native rules summary
+PASS oathscar_4 native rules summary
+PASS oathscar_5 native rules summary
+PASS oathscar_6 native rules summary
+PASS oathscar_7 native rules summary
+PASS oathscar_8 native rules summary
+PASS oathscar_9 native rules summary
+PASS oathscar_10 native rules summary
+PASS oathscar_general0 native rules summary
+PASS oathscar_general1 native rules summary
+PASS oathscar_general2 native rules summary
+PASS pelagic_0 native rules summary
+PASS pelagic_1 native rules summary
+PASS pelagic_2 native rules summary
+PASS pelagic_3 native rules summary
+PASS pelagic_4 native rules summary
+PASS pelagic_5 native rules summary
+PASS pelagic_6 native rules summary
+PASS pelagic_7 native rules summary
+PASS pelagic_8 native rules summary
+PASS pelagic_9 native rules summary
+PASS pelagic_10 native rules summary
+PASS pelagic_general0 native rules summary
+PASS pelagic_general1 native rules summary
+PASS pelagic_general2 native rules summary
+PASS kiln_0 native rules summary
+PASS kiln_1 native rules summary
+PASS kiln_2 native rules summary
+PASS kiln_3 native rules summary
+PASS kiln_4 native rules summary
+PASS kiln_5 native rules summary
+PASS kiln_6 native rules summary
+PASS kiln_7 native rules summary
+PASS kiln_8 native rules summary
+PASS kiln_9 native rules summary
+PASS kiln_10 native rules summary
+PASS kiln_general0 native rules summary
+PASS kiln_general1 native rules summary
+PASS kiln_general2 native rules summary
+PASS vermin_titan native rules summary
+PASS compact_titan native rules summary
+PASS cinder_titan native rules summary
+PASS vault_titan native rules summary
+PASS lumen_titan native rules summary
+PASS vesper_titan native rules summary
+PASS sepulchre_titan native rules summary
+PASS horn_titan native rules summary
+PASS rift_titan native rules summary
+PASS verdant_titan native rules summary
+PASS saurian_titan native rules summary
+PASS dawn_titan native rules summary
+PASS hollow_titan native rules summary
+PASS argent_titan native rules summary
+PASS oathscar_titan native rules summary
+PASS pelagic_titan native rules summary
+PASS kiln_titan native rules summary
+PASS gore_maiden native rules summary
+PASS d100 bounds and all faces sampled
+PASS saved seed reproduces entire dice sequence
+PASS AI penalizes blast friendly fire
+PASS AI evaluation preserves position and RNG
+PASS AI position score finite
